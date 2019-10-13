@@ -1,0 +1,39 @@
+{
+    "id": "36862181",
+    "face_iamge": "https://img3.doubanio.com/icon/ul36862181-10.jpg",
+    "city": "上海",
+    "registration_date": "2010-03-12",
+    "introduction": "喜欢看电影。喜欢看电视剧。",
+    "nickname": "Narnia_Kis",
+    "sign": "想做什么事由我决定。",
+    "broadcast_url": "https://www.douban.com/people/36862181/statuses",
+    "concerns_num": "24",
+    "follows_num": "3",
+    "groups_num": "9",
+    "events": {
+        "join_num": "2",
+        "interested_num": "1"
+    },
+    "doulist_num": "11",
+    "portfolio_num": null,
+    "photo": {
+        "create_num": null,
+        "concern_num": null
+    },
+    "book": {
+        "reading_num": "2",
+        "wanted_num": "17",
+        "readed_num": "12"
+    },
+    "movie": {
+        "watching_num": "10",
+        "wanted_num": "221",
+        "watched_num": "131"
+    },
+    "music": {
+        "watching_num": "6",
+        "wanted_num": "4",
+        "watched_num": "10"
+    },
+    "review_num": null
+}

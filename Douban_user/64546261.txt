@@ -1,0 +1,40 @@
+{
+    "id": "64546261",
+    "face_iamge": "https://img3.doubanio.com/icon/ul64546261-3.jpg",
+    "city": "山东聊城",
+    "registration_date": "2012-09-09",
+    "introduction": "喜欢看经典电影、言情小说，喜欢美图",
+    "nickname": "蓝玉公子",
+    "sign": "流水混账",
+    "broadcast_url": "https://www.douban.com/people/64546261/statuses",
+    "concerns_num": "4",
+    "follows_num": "0",
+    "groups_num": "1",
+    "events": {
+        "join_num": null,
+        "interested_num": null
+    },
+    "doulist_num": "5",
+    "portfolio_num": null,
+    "photo": {
+        "create_num": null,
+        "concern_num": null
+    },
+    "book": {
+        "reading_num": null,
+        "wanted_num": null,
+        "readed_num": null
+    },
+    "movie": {
+        "reading_num": null,
+        "wanted_num": null,
+        "watching_num": null,
+        "watched_num": null
+    },
+    "music": {
+        "watching_num": null,
+        "wanted_num": null,
+        "watched_num": null
+    },
+    "review_num": null
+}

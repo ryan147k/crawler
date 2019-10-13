@@ -1,0 +1,39 @@
+{
+    "id": "55482680",
+    "face_iamge": "https://img1.doubanio.com/icon/ul55482680-9.jpg",
+    "city": "贵州六盘水",
+    "registration_date": "2011-10-23",
+    "introduction": "Rapper:李聪 AKa:Birgitta 这是贝吉塔你知道的",
+    "nickname": "Vegeta贝吉塔",
+    "sign": null,
+    "broadcast_url": "https://www.douban.com/people/rapvegeta/statuses",
+    "concerns_num": "2",
+    "follows_num": "0",
+    "groups_num": null,
+    "events": {
+        "join_num": null,
+        "interested_num": null
+    },
+    "doulist_num": null,
+    "portfolio_num": null,
+    "photo": {
+        "create_num": null,
+        "concern_num": null
+    },
+    "book": {
+        "reading_num": null,
+        "wanted_num": null,
+        "readed_num": null
+    },
+    "movie": {
+        "watching_num": null,
+        "wanted_num": null,
+        "watched_num": null
+    },
+    "music": {
+        "watching_num": null,
+        "wanted_num": null,
+        "watched_num": null
+    },
+    "review_num": null
+}

@@ -1,0 +1,40 @@
+{
+    "id": "66139441",
+    "face_iamge": "https://img3.doubanio.com/icon/ul66139441-13.jpg",
+    "city": "上海",
+    "registration_date": "2012-11-10",
+    "introduction": "豆瓣音乐人：http://site.douban.com/xcool/网易音乐人：http://music.163.com/#/artist?id=1039542虾米音乐人：http://i.xiami.com/xcool?spm=a1z1s.6639473.350708669.1.Exg9rM 微博：http://weibo.com/1948585951/profile?topnav=1&wvr=6 ",
+    "nickname": "午夜邮差",
+    "sign": "徐晨",
+    "broadcast_url": "https://www.douban.com/people/66139441/statuses",
+    "concerns_num": "24",
+    "follows_num": "17",
+    "groups_num": "16",
+    "events": {
+        "join_num": "50",
+        "interested_num": "50"
+    },
+    "doulist_num": "1",
+    "portfolio_num": null,
+    "photo": {
+        "create_num": null,
+        "concern_num": null
+    },
+    "book": {
+        "reading_num": null,
+        "wanted_num": null,
+        "readed_num": null
+    },
+    "movie": {
+        "reading_num": null,
+        "wanted_num": "19",
+        "readed_num": "278"
+    },
+    "music": {
+        "reading_num": null,
+        "wanted_num": null,
+        "watching_num": null,
+        "watched_num": null
+    },
+    "review_num": null
+}

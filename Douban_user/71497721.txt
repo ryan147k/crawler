@@ -1,0 +1,40 @@
+{
+    "id": "71497721",
+    "face_iamge": "https://img3.doubanio.com/icon/ul71497721-16.jpg",
+    "city": "宁夏银川",
+    "registration_date": "2013-04-21",
+    "introduction": "2013年3月19日，谣乐队成立于宁夏银川。背靠贺兰山，看着黄河奔腾不息的东流，就在这片被人们誉为“塞上江南·鱼米之乡”的热土，我们用朴实无华的音乐描述着家乡的美丽富饶，用动人的旋律讲述美好的童年和对未来的向往，用诙谐幽默的歌词来调侃这个社会中的一些不公平，用积极向上的态度来面对生活中许多无奈和无大改变的事实！这就是我们—— 一群热爱唱歌热爱音乐，单纯朴实的大男孩。 这就是我们—— 一群生在宁夏、长在宁夏的西北汉子。 这就是谣谣-我们聆听着童谣走过童年！谣-我们弹唱着民谣度过青涩的青年时光；而现在谣为您讲述现实生活的酸甜苦辣！【谣乐队成员】主唱 吉他 ：王峥嵘吉他 合声 ：白 钢 大 提 琴 ：马泽民 手 风 琴 ：韩 彬 打 击 乐 ：李佳佳经 纪 人 ：盖鲁川",
+    "nickname": "谣乐队",
+    "sign": "谣—为您讲述现实生活的酸甜苦辣",
+    "broadcast_url": "https://www.douban.com/people/yaoband/statuses",
+    "concerns_num": "40",
+    "follows_num": "182",
+    "groups_num": "9",
+    "events": {
+        "join_num": "46",
+        "interested_num": "1"
+    },
+    "doulist_num": "7",
+    "portfolio_num": null,
+    "photo": {
+        "create_num": "4",
+        "concern_num": "0"
+    },
+    "book": {
+        "reading_num": null,
+        "wanted_num": null,
+        "readed_num": null
+    },
+    "movie": {
+        "watching_num": null,
+        "wanted_num": null,
+        "watched_num": null
+    },
+    "music": {
+        "reading_num": null,
+        "wanted_num": null,
+        "watching_num": null,
+        "watched_num": null
+    },
+    "review_num": null
+}

@@ -1,0 +1,39 @@
+{
+    "id": "125811199",
+    "face_iamge": "https://img3.doubanio.com/icon/ul125811199-6.jpg",
+    "city": "河北唐山",
+    "registration_date": "2015-04-20",
+    "introduction": "村人是一种精神，我们没钱，我们很土，我们甚至还在为生活奔波忙碌，但是我们这种人，有梦想，有坚定不移的信念村人很单纯，只想做自己的音乐，结合各种流派，我们学习，我们模仿，但是我们不抄袭，我们有自己的音乐风格，有自己的路线村人精神会一直传承下去，我们喜欢民谣，我们是村人组合。",
+    "nickname": "村人组合勇哥",
+    "sign": "有梦想不丢人，2016村人在路上！",
+    "broadcast_url": "https://www.douban.com/people/cunren326/statuses",
+    "concerns_num": null,
+    "follows_num": "0",
+    "groups_num": null,
+    "events": {
+        "join_num": null,
+        "interested_num": null
+    },
+    "doulist_num": "2",
+    "portfolio_num": null,
+    "photo": {
+        "create_num": "1",
+        "concern_num": "0"
+    },
+    "book": {
+        "reading_num": null,
+        "wanted_num": null,
+        "readed_num": null
+    },
+    "movie": {
+        "watching_num": null,
+        "wanted_num": null,
+        "watched_num": null
+    },
+    "music": {
+        "watching_num": null,
+        "wanted_num": null,
+        "watched_num": null
+    },
+    "review_num": null
+}

@@ -1,0 +1,40 @@
+{
+    "id": "60959162",
+    "face_iamge": "https://img1.doubanio.com/icon/ul60959162-7.jpg",
+    "city": "河北保定",
+    "registration_date": "2012-05-03",
+    "introduction": "时而随和，时而暴躁，不爱出门，不爱洗澡，不爱练琴，不善言谈，技术超差，乐感超强。讨厌过年，低调，高调，牛逼，近视。热爱民谣但有一颗燥热的摇滚之心。爱吃辣椒，从不杀生。希望冬天流浪猫狗有个温暖的家。豆瓣小站http://site.douban.com/zhouwang新浪微博http://weibo.com/zhouwanglaohu",
+    "nickname": "纣王老胡",
+    "sign": "平步青云",
+    "broadcast_url": "https://www.douban.com/people/huxiaoming1981/statuses",
+    "concerns_num": "47",
+    "follows_num": "489",
+    "groups_num": "25",
+    "events": {
+        "join_num": "166",
+        "interested_num": "203"
+    },
+    "doulist_num": "4",
+    "portfolio_num": null,
+    "photo": {
+        "create_num": "1",
+        "concern_num": "0"
+    },
+    "book": {
+        "reading_num": null,
+        "wanted_num": "3",
+        "readed_num": "2"
+    },
+    "movie": {
+        "reading_num": null,
+        "wanted_num": null,
+        "watching_num": null,
+        "watched_num": null
+    },
+    "music": {
+        "watching_num": "1",
+        "wanted_num": "3",
+        "watched_num": "5"
+    },
+    "review_num": null
+}

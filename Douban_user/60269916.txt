@@ -1,0 +1,39 @@
+{
+    "id": "60269916",
+    "face_iamge": "https://img3.doubanio.com/icon/ul60269916-4.jpg",
+    "city": "广东深圳",
+    "registration_date": "2012-04-11",
+    "introduction": "陈建武",
+    "nickname": "陈建武",
+    "sign": null,
+    "broadcast_url": "https://www.douban.com/people/60269916/statuses",
+    "concerns_num": null,
+    "follows_num": "0",
+    "groups_num": "3",
+    "events": {
+        "join_num": "2",
+        "interested_num": "5"
+    },
+    "doulist_num": "21",
+    "portfolio_num": null,
+    "photo": {
+        "create_num": "18",
+        "concern_num": "0"
+    },
+    "book": {
+        "reading_num": null,
+        "wanted_num": null,
+        "readed_num": null
+    },
+    "movie": {
+        "watching_num": null,
+        "wanted_num": null,
+        "watched_num": null
+    },
+    "music": {
+        "watching_num": null,
+        "wanted_num": null,
+        "watched_num": null
+    },
+    "review_num": null
+}

@@ -1,0 +1,40 @@
+{
+    "id": "41522718",
+    "face_iamge": "https://img1.doubanio.com/icon/ul41522718-17.jpg",
+    "city": "广东深圳",
+    "registration_date": "2010-06-02",
+    "introduction": "新书《自信社交》上市中https://book.douban.com/subject/34847879/约稿请私信迎刃自信沟通教练/高效能教练二手杂学家/非著名滞销书青年作家《你不是不努力，而是不会努力》新书上市中。https://book.douban.com/subject/30235723/2020年待出版新书《内向者如何成为沟通高手》知乎/专栏作者，简书/豆瓣/百度签约作者分享自信、人际交往、情感、学习成长干货。千万阅读量写作者。文章常被人民日报、十点读书、京东、领英等多个大号转载。公众微信：yingrendao  ( 搜索：迎刃 )个人微信：yingren2018（验证：豆瓣）我的微博http://www.weibo.com/1867857134/豆瓣专栏http://read.douban.com/column/1029106/豆瓣小组http://www.douban.com/group/569787/【转载无需简信，请到公众号索要授权】《内心足够强大，世界都会为你让路》http://read.douban.com/ebook/11433244/ 关注微信【 yingrendao 】，回复关键词“电子书”下载5本电子书（自信、沟通、社交、情感、成长、情绪）",
+    "nickname": "迎刃",
+    "sign": "新书《自信社交》上市中",
+    "broadcast_url": "https://www.douban.com/people/wuleji/statuses",
+    "concerns_num": "222",
+    "follows_num": "5758",
+    "groups_num": "249",
+    "events": {
+        "join_num": "5",
+        "interested_num": "8"
+    },
+    "doulist_num": "9",
+    "portfolio_num": "1",
+    "photo": {
+        "create_num": "3",
+        "concern_num": "1"
+    },
+    "book": {
+        "reading_num": "15",
+        "wanted_num": "531",
+        "readed_num": "26"
+    },
+    "movie": {
+        "watching_num": "7",
+        "wanted_num": "279",
+        "watched_num": "164"
+    },
+    "music": {
+        "reading_num": null,
+        "wanted_num": null,
+        "watching_num": null,
+        "watched_num": null
+    },
+    "review_num": "26"
+}

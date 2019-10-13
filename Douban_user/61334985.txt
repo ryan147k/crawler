@@ -1,0 +1,39 @@
+{
+    "id": "61334985",
+    "face_iamge": "https://img1.doubanio.com/icon/user_normal.jpg",
+    "city": "广东湛江",
+    "registration_date": "2012-05-14",
+    "introduction": "",
+    "nickname": "小牛cal",
+    "sign": null,
+    "broadcast_url": "https://www.douban.com/people/61334985/statuses",
+    "concerns_num": "2",
+    "follows_num": "0",
+    "groups_num": "12",
+    "events": {
+        "join_num": null,
+        "interested_num": null
+    },
+    "doulist_num": "1",
+    "portfolio_num": null,
+    "photo": {
+        "create_num": null,
+        "concern_num": null
+    },
+    "book": {
+        "reading_num": null,
+        "wanted_num": null,
+        "readed_num": null
+    },
+    "movie": {
+        "reading_num": null,
+        "wanted_num": "107",
+        "readed_num": "181"
+    },
+    "music": {
+        "watching_num": null,
+        "wanted_num": null,
+        "watched_num": null
+    },
+    "review_num": null
+}

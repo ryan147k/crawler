@@ -1,0 +1,39 @@
+{
+    "id": "42928816",
+    "face_iamge": "https://img3.doubanio.com/icon/ul42928816-411.jpg",
+    "city": "北京",
+    "registration_date": "2010-07-03",
+    "introduction": "如果不是一次意外这里的东西应该很长时间之内都不会变了有些东西就是这样在未知的时刻消失不见这也许也正是证明文字作为数据极其不靠谱的原因不定期清理好友列表如果那天发现我取消关注了或许是交流太少或许是其他原因我无法让每个人都喜欢我同理我也没办法喜欢每个人偶尔被人称作Sheldon Cooper也偶然间被人称作Jack McFarland实质上我更愿意成为囧虚+坂田银时的矛盾体虽然自称“人类LOVE！我最喜欢人类了！我爱你们！所以所有的人也应该爱我才对嘛！”但是我还是做不到折原临也这样广阔的内心【其实自己就是MADAO本体，不要在挣扎了】中二和廢柴是一輩子的事我相信这个世界有兔子洞的存在在兔子洞的另一边我是一个懂事、听话、名列前茅、相信所有美好事物存在的好孩子如果是这样我也能安安心心的在这边做一个呆逼PS1.如果发现我已经不值得你去关注，请直接拖黑PS2.每个人都有自己选择的权利，每个人的审美也因各种客观条件有所不同。我尊重的态度，但也请你不要质疑我的评分【献给脑残粉的自嘲文书】========================虽说勾搭绕行但是交个喷油还是可以的除了豆瓣在下面也可以找到我Nintendo FC：SW-3277-1516-3998Sina围脖：http://weibo.com/bba356285883饭否：http://fanfou.com/bba356285883MSN：356285883bba@gmail.comGoogle+：https://plus.google.com/105257497988460241322/posts推特:https://twitter.com/#!/356285883非死不可：http://www.facebook.com/bba356285883汤不热：http://bba356285883.tumblr.com/ASK：http://ask.fm/bba356285883instagram：http://instagram.com/356285883",
+    "nickname": "o0工藤波波0o",
+    "sign": "Live together,die alone.",
+    "broadcast_url": "https://www.douban.com/people/bba356285883/statuses",
+    "concerns_num": "245",
+    "follows_num": "1231",
+    "groups_num": "207",
+    "events": {
+        "join_num": "30",
+        "interested_num": "306"
+    },
+    "doulist_num": "47",
+    "portfolio_num": null,
+    "photo": {
+        "create_num": "30",
+        "concern_num": "0"
+    },
+    "book": {
+        "reading_num": "9",
+        "wanted_num": "12",
+        "readed_num": "99"
+    },
+    "movie": {
+        "watching_num": "22",
+        "wanted_num": "74",
+        "watched_num": "929"
+    },
+    "music": {
+        "watching_num": "31",
+        "wanted_num": "12",
+        "watched_num": "2008"
+    },
+    "review_num": "4"
+}

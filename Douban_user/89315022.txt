@@ -1,0 +1,39 @@
+{
+    "id": "89315022",
+    "face_iamge": "https://img3.doubanio.com/icon/ul89315022-5.jpg",
+    "city": "上海",
+    "registration_date": "2014-05-20",
+    "introduction": "上海唐艾文化传播有限公司是内地领先的音乐传播传媒公司，A2LiVE是上海唐艾公司全力打造的现场音乐品牌。公司业务包括巡演，音乐节，展览会，电视直播，网络直播，多媒体转播，和其他特色娱乐活动。A2LiVE.cn是Live Music的流媒体和社交网络平台，也是电子音乐杂志和社会化营销平台。我们的A2LiVE.cn平台可以同步直播各种音乐节，演唱会，小型演唱以及见面会等，面向欧美港台巨星、网络草根艺人以及业余音乐爱好者。A2Live还在打造引领音乐潮流的电子杂志，通过社会营销平台推广中国以及国外音乐信息，推动流行文化以及音乐交流的扩散。自从开启以来，A2LiVE已参与重多国际头条巨星合作。演唱会项目包括艾爾頓·赫拉克勒斯·約翰爵士 (Elton John), 黑眼豆豆 (Black Eyed Peas), 凯莉米洛 (Kylie Minogue),詹姆斯·布朗特 (James Blunt),肯伊·歐馬立·威斯特 (Kanye West),莎拉·寇娜 (Sarah Connor)和詹姆斯·布朗 (James Brown)等。近期的皮普保罗 (Pitbull)国内演出，堪称中国2013年最火爆的欧美演出，即是该公司的精彩佳作。　STORM Electronic Music Festival风暴电音节是A2LiVE打造的原创电子音乐节品牌2013年首度开办，创造无数奇迹吸引了数以万计的各国游客和电音爱好者成为了上海11月最受瞩目的国际盛事其庞大的国际顶级DJ艺人阵容巨资打造的魔幻电音舞台自由、热情、振奋人心的氛围都使其被誉为“中国最强的电子音乐节”",
+    "nickname": "A2LiVE",
+    "sign": "A2LiVE",
+    "broadcast_url": "https://www.douban.com/people/A2LiVE/statuses",
+    "concerns_num": "0",
+    "follows_num": "33",
+    "groups_num": "6",
+    "events": {
+        "join_num": "5",
+        "interested_num": "2016"
+    },
+    "doulist_num": null,
+    "portfolio_num": null,
+    "photo": {
+        "create_num": "1",
+        "concern_num": "0"
+    },
+    "book": {
+        "reading_num": null,
+        "wanted_num": null,
+        "readed_num": null
+    },
+    "movie": {
+        "watching_num": null,
+        "wanted_num": null,
+        "watched_num": null
+    },
+    "music": {
+        "watching_num": null,
+        "wanted_num": null,
+        "watched_num": null
+    },
+    "review_num": null
+}

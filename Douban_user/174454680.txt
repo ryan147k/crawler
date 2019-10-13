@@ -1,0 +1,41 @@
+{
+    "id": "174454680",
+    "face_iamge": "https://img3.doubanio.com/icon/ul174454680-2.jpg",
+    "city": "江西南昌",
+    "registration_date": "2018-02-23",
+    "introduction": "该用户未填写自我介绍",
+    "nickname": "七夜的许愿星",
+    "sign": "月照冰山行路人",
+    "broadcast_url": "https://www.douban.com/people/174454680/statuses",
+    "concerns_num": "3",
+    "follows_num": "0",
+    "groups_num": "2",
+    "events": {
+        "join_num": null,
+        "interested_num": null
+    },
+    "doulist_num": "2",
+    "portfolio_num": null,
+    "photo": {
+        "create_num": "1",
+        "concern_num": "0"
+    },
+    "book": {
+        "reading_num": null,
+        "wanted_num": null,
+        "readed_num": null
+    },
+    "movie": {
+        "reading_num": null,
+        "wanted_num": null,
+        "watching_num": null,
+        "watched_num": null
+    },
+    "music": {
+        "reading_num": null,
+        "wanted_num": null,
+        "watching_num": null,
+        "watched_num": null
+    },
+    "review_num": null
+}

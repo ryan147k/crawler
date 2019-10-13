@@ -1,0 +1,40 @@
+{
+    "id": "52899191",
+    "face_iamge": "https://img3.doubanio.com/icon/ul52899191-10.jpg",
+    "city": "湖北武汉",
+    "registration_date": "2011-07-08",
+    "introduction": "好玩的我都喜欢，美好的我都喜欢~~~",
+    "nickname": "蛋蛋",
+    "sign": null,
+    "broadcast_url": "https://www.douban.com/people/Eineineinchen/statuses",
+    "concerns_num": "1",
+    "follows_num": "0",
+    "groups_num": "6",
+    "events": {
+        "join_num": null,
+        "interested_num": null
+    },
+    "doulist_num": "1",
+    "portfolio_num": null,
+    "photo": {
+        "create_num": null,
+        "concern_num": null
+    },
+    "book": {
+        "reading_num": null,
+        "wanted_num": null,
+        "readed_num": null
+    },
+    "movie": {
+        "reading_num": null,
+        "wanted_num": null,
+        "watching_num": null,
+        "watched_num": null
+    },
+    "music": {
+        "watching_num": null,
+        "wanted_num": null,
+        "watched_num": null
+    },
+    "review_num": null
+}

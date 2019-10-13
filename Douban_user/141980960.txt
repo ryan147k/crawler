@@ -1,0 +1,39 @@
+{
+    "id": "141980960",
+    "face_iamge": "https://img3.doubanio.com/icon/ul141980960-2.jpg",
+    "city": "天津",
+    "registration_date": "2016-02-15",
+    "introduction": "闷骚的摩羯座，井井有条的强迫症患者， 热衷于音乐和运动的一名闲不住的退伍军人。 最大特点是闷骚，喜欢一个人安安静静的听着歌或者抽着烟弹着那把Takamine，偶尔和朋友小聚，民谣是他最好的朋友。 小时候很蔫，总是一个人在家里自言自语当导演，捣鼓各种玩具。 上学后因为不好好学习经常被组合双打，在磨砺中熬到初中毕业，因此养成了一个特变能忍的好脾气。。。后来上了高中，养成了喝茶的习惯，右手茶壶，左手基友，忍饥挨饿一礼拜买一张点卡，同基友网吧共欢乐，因此养成了184身高，140+的妖娆身材。 高中毕业后因贪玩上了专科，后因大学生活枯燥无味，荒度光阴而顿悟，在年底毅然决然弃笔从戎，自此在红门中渡过五年青春，救人于水火，五年看生死无数，淡定从容。于15年低到期退伍，与战友基友组乐队不务正业至今。。。。。。总之是个外表正儿八经，但内心火车时常鸣笛呼啸的人。 希望世界上还有能跟我契合的姑娘， 我带你弹琴，给你讲我的故事，带你上我呼啸的小火车。 ",
+    "nickname": "Mr.L",
+    "sign": "春风十里不如你，我有春风没有你",
+    "broadcast_url": "https://www.douban.com/people/141980960/statuses",
+    "concerns_num": null,
+    "follows_num": "0",
+    "groups_num": null,
+    "events": {
+        "join_num": null,
+        "interested_num": null
+    },
+    "doulist_num": null,
+    "portfolio_num": null,
+    "photo": {
+        "create_num": "1",
+        "concern_num": "0"
+    },
+    "book": {
+        "reading_num": null,
+        "wanted_num": null,
+        "readed_num": null
+    },
+    "movie": {
+        "watching_num": null,
+        "wanted_num": null,
+        "watched_num": null
+    },
+    "music": {
+        "watching_num": null,
+        "wanted_num": null,
+        "watched_num": null
+    },
+    "review_num": null
+}

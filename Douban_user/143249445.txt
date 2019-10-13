@@ -1,0 +1,39 @@
+{
+    "id": "143249445",
+    "face_iamge": "https://img3.doubanio.com/icon/ul143249445-3.jpg",
+    "city": "天津",
+    "registration_date": "2016-03-14",
+    "introduction": "致力于成为一个怪物",
+    "nickname": "是笼七",
+    "sign": null,
+    "broadcast_url": "https://www.douban.com/people/143249445/statuses",
+    "concerns_num": "5",
+    "follows_num": "0",
+    "groups_num": "6",
+    "events": {
+        "join_num": null,
+        "interested_num": null
+    },
+    "doulist_num": "1",
+    "portfolio_num": null,
+    "photo": {
+        "create_num": "1",
+        "concern_num": "0"
+    },
+    "book": {
+        "reading_num": "3",
+        "wanted_num": "6",
+        "readed_num": "22"
+    },
+    "movie": {
+        "reading_num": null,
+        "wanted_num": "2",
+        "readed_num": "158"
+    },
+    "music": {
+        "watching_num": null,
+        "wanted_num": null,
+        "watched_num": null
+    },
+    "review_num": null
+}

@@ -1,0 +1,40 @@
+{
+    "id": "62058506",
+    "face_iamge": "https://img3.doubanio.com/icon/ul62058506-5.jpg",
+    "city": "山东东营",
+    "registration_date": "2012-06-06",
+    "introduction": "岁月长，衣裳薄........ ",
+    "nickname": "桥xilo",
+    "sign": "岁月长，衣裳薄........",
+    "broadcast_url": "https://www.douban.com/people/62058506/statuses",
+    "concerns_num": "11",
+    "follows_num": "0",
+    "groups_num": "8",
+    "events": {
+        "join_num": null,
+        "interested_num": null
+    },
+    "doulist_num": "2",
+    "portfolio_num": null,
+    "photo": {
+        "create_num": "1",
+        "concern_num": "0"
+    },
+    "book": {
+        "reading_num": "1",
+        "wanted_num": "22",
+        "readed_num": "6"
+    },
+    "movie": {
+        "reading_num": null,
+        "wanted_num": "6",
+        "readed_num": "77"
+    },
+    "music": {
+        "reading_num": null,
+        "watching_num": null,
+        "wanted_num": null,
+        "watched_num": null
+    },
+    "review_num": null
+}

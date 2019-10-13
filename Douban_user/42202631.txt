@@ -1,0 +1,39 @@
+{
+    "id": "42202631",
+    "face_iamge": "https://img3.doubanio.com/icon/ul42202631-4.jpg",
+    "city": null,
+    "registration_date": "2010-06-17",
+    "introduction": "blog地址:www.emberswift.com子玉，中西合璧的艺术家加拿大的音乐人 Ember Swift (子玉), 是一位做过国际巡演的乐手和作曲家，也是加拿大独立唱片公司 “Few’ll Ignite Sound” 的 创始人。 尽管她认为现在北京是她的基地，但她还是继续在加拿大，美国，澳大利亚，新喀里多尼亚（法属岛屿）做大量的巡演工作，而最近也添加了在中国的日程。自1996年至今，她发表过11张唱片，1张DVD， 在世界各地拥有众多忠实的歌迷。近几年，在她定期的巡演间隙，一直在朝阳公园附近过着隐士般的创作生活。除了学习中文，和在中国文化中沉浸（包括与一位北京的音乐家相爱并结为夫妇）之外，还与这个新环境与新文化磨合出一批新的音乐理念与作品， 子玉2011年出了她最近的唱片“11：11”，一个双语的作品。这个三人乐队是在北京组成的。乐队成员包括来自澳大利亚的鼓手“Zac Courtney” 与来自布隆迪（非洲国家）的贝司手“Paplus Ntahombaye”。他们来自三个完全不同的国家但他们都在北京安家，因为北京是一块作用于全球的文化磁铁. 她音音乐的风格包括爵士，吉普赛音乐, R&B, 放克 , 流行，民谣，布鲁斯与法国的卡巴来. 子玉会用英文，法文与中文来演绎这些歌曲。如果你欣赏音乐的多样性，愿意体验不同文化融合后的精彩，并不愿忍受多个乐队同台间歇恼人的等待，那这是你应该来看的演出!",
+    "nickname": "EmberSwift子玉",
+    "sign": "Ember Swift 子玉",
+    "broadcast_url": "https://www.douban.com/people/emberswift/statuses",
+    "concerns_num": null,
+    "follows_num": null,
+    "groups_num": null,
+    "events": {
+        "join_num": null,
+        "interested_num": null
+    },
+    "doulist_num": null,
+    "portfolio_num": null,
+    "photo": {
+        "create_num": "2",
+        "concern_num": "0"
+    },
+    "book": {
+        "reading_num": null,
+        "wanted_num": null,
+        "readed_num": null
+    },
+    "movie": {
+        "watching_num": null,
+        "wanted_num": null,
+        "watched_num": null
+    },
+    "music": {
+        "reading_num": null,
+        "wanted_num": "1",
+        "readed_num": "2"
+    },
+    "review_num": null
+}

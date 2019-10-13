@@ -1,0 +1,40 @@
+{
+    "id": "3254339",
+    "face_iamge": "https://img1.doubanio.com/icon/ul3254339-9.jpg",
+    "city": "北京",
+    "registration_date": "2008-11-23",
+    "introduction": "想要就要，想走就走我是一片云，除了天空谁也留不住我你是你的， 我是我的我只要不后悔     ",
+    "nickname": "扭扭的鸭子",
+    "sign": "疲惫的生活",
+    "broadcast_url": "https://www.douban.com/people/3254339/statuses",
+    "concerns_num": "15",
+    "follows_num": "8",
+    "groups_num": "34",
+    "events": {
+        "join_num": null,
+        "interested_num": null
+    },
+    "doulist_num": "7",
+    "portfolio_num": null,
+    "photo": {
+        "create_num": "3",
+        "concern_num": "0"
+    },
+    "book": {
+        "reading_num": "2",
+        "wanted_num": "13",
+        "readed_num": "4"
+    },
+    "movie": {
+        "watching_num": "2",
+        "wanted_num": "3",
+        "watched_num": "6"
+    },
+    "music": {
+        "reading_num": null,
+        "wanted_num": null,
+        "watching_num": null,
+        "watched_num": null
+    },
+    "review_num": null
+}

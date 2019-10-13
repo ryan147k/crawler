@@ -1,0 +1,41 @@
+{
+    "id": "152972300",
+    "face_iamge": "https://img3.doubanio.com/icon/ul152972300-4.jpg",
+    "city": "河南洛阳",
+    "registration_date": "2016-10-25",
+    "introduction": "1994年7月6号出生，独立音乐人，民谣歌手，全能型创作音乐人。2016年推出四张专辑《1994》《北方 • 蓝色》《没有尽头的路上》《夜空》2017年现场专辑《你会像我一样孤独吗》2018年专辑《翻山越岭》《飞鸟》。2016年十二月份自掏腰包做了个人民谣专场演唱会 / 2017元旦音乐演唱会，2017年五月份“没有尽头的路上”全国巡演。",
+    "nickname": "袁康",
+    "sign": "独立音乐人",
+    "broadcast_url": "https://www.douban.com/people/152972300/statuses",
+    "concerns_num": "4",
+    "follows_num": "3",
+    "groups_num": "5",
+    "events": {
+        "join_num": null,
+        "interested_num": null
+    },
+    "doulist_num": "1",
+    "portfolio_num": null,
+    "photo": {
+        "create_num": "2",
+        "concern_num": "0"
+    },
+    "book": {
+        "reading_num": null,
+        "wanted_num": null,
+        "readed_num": null
+    },
+    "movie": {
+        "reading_num": null,
+        "wanted_num": null,
+        "watching_num": null,
+        "watched_num": null
+    },
+    "music": {
+        "reading_num": null,
+        "wanted_num": null,
+        "watching_num": null,
+        "watched_num": null
+    },
+    "review_num": null
+}

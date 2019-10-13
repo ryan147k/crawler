@@ -1,0 +1,40 @@
+{
+    "id": "139532431",
+    "face_iamge": "https://img3.doubanio.com/icon/ul139532431-1.jpg",
+    "city": "北京",
+    "registration_date": "2015-12-26",
+    "introduction": "太多欲望无从开始那么就从一部书一部电影开始吧",
+    "nickname": "A-M",
+    "sign": null,
+    "broadcast_url": "https://www.douban.com/people/CHARSINA/statuses",
+    "concerns_num": "13",
+    "follows_num": "16",
+    "groups_num": "35",
+    "events": {
+        "join_num": "3",
+        "interested_num": "3"
+    },
+    "doulist_num": "1",
+    "portfolio_num": null,
+    "photo": {
+        "create_num": null,
+        "concern_num": null
+    },
+    "book": {
+        "reading_num": null,
+        "wanted_num": "10",
+        "readed_num": "15"
+    },
+    "movie": {
+        "watching_num": "1",
+        "wanted_num": "3",
+        "watched_num": "43"
+    },
+    "music": {
+        "reading_num": null,
+        "wanted_num": null,
+        "watching_num": null,
+        "watched_num": null
+    },
+    "review_num": "2"
+}

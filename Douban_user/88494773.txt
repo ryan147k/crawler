@@ -1,0 +1,40 @@
+{
+    "id": "88494773",
+    "face_iamge": "https://img3.doubanio.com/icon/ul88494773-4.jpg",
+    "city": "广东江门",
+    "registration_date": "2014-05-08",
+    "introduction": "垃圾一个",
+    "nickname": "密码8个8",
+    "sign": null,
+    "broadcast_url": "https://www.douban.com/people/chrenli/statuses",
+    "concerns_num": null,
+    "follows_num": "0",
+    "groups_num": "13",
+    "events": {
+        "join_num": null,
+        "interested_num": null
+    },
+    "doulist_num": "8",
+    "portfolio_num": null,
+    "photo": {
+        "create_num": null,
+        "concern_num": null
+    },
+    "book": {
+        "reading_num": "1",
+        "wanted_num": "9",
+        "readed_num": "1"
+    },
+    "movie": {
+        "watching_num": "1",
+        "wanted_num": "6",
+        "watched_num": "15"
+    },
+    "music": {
+        "reading_num": null,
+        "wanted_num": null,
+        "watching_num": null,
+        "watched_num": null
+    },
+    "review_num": null
+}

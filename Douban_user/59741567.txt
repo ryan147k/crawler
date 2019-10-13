@@ -1,0 +1,39 @@
+{
+    "id": "59741567",
+    "face_iamge": "https://img3.doubanio.com/icon/ul59741567-16.jpg",
+    "city": "上海",
+    "registration_date": "2012-03-23",
+    "introduction": "着迷于你眼睛 银河有迹可循",
+    "nickname": "巴雷武",
+    "sign": "一万年来谁著史，三千里外欲封侯",
+    "broadcast_url": "https://www.douban.com/people/59741567/statuses",
+    "concerns_num": "69",
+    "follows_num": "13",
+    "groups_num": "35",
+    "events": {
+        "join_num": null,
+        "interested_num": null
+    },
+    "doulist_num": "8",
+    "portfolio_num": null,
+    "photo": {
+        "create_num": null,
+        "concern_num": null
+    },
+    "book": {
+        "reading_num": "8",
+        "wanted_num": "40",
+        "readed_num": "22"
+    },
+    "movie": {
+        "watching_num": "3",
+        "wanted_num": "50",
+        "watched_num": "39"
+    },
+    "music": {
+        "reading_num": null,
+        "wanted_num": "2",
+        "readed_num": "1"
+    },
+    "review_num": null
+}

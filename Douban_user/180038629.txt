@@ -1,0 +1,39 @@
+{
+    "id": "180038629",
+    "face_iamge": "https://img3.doubanio.com/icon/ul180038629-1.jpg",
+    "city": "河北保定",
+    "registration_date": "2018-06-18",
+    "introduction": "aaasss1",
+    "nickname": "亦又",
+    "sign": null,
+    "broadcast_url": "https://www.douban.com/people/180038629/statuses",
+    "concerns_num": null,
+    "follows_num": "0",
+    "groups_num": null,
+    "events": {
+        "join_num": null,
+        "interested_num": null
+    },
+    "doulist_num": null,
+    "portfolio_num": null,
+    "photo": {
+        "create_num": null,
+        "concern_num": null
+    },
+    "book": {
+        "reading_num": null,
+        "wanted_num": null,
+        "readed_num": null
+    },
+    "movie": {
+        "watching_num": null,
+        "wanted_num": null,
+        "watched_num": null
+    },
+    "music": {
+        "watching_num": null,
+        "wanted_num": null,
+        "watched_num": null
+    },
+    "review_num": null
+}

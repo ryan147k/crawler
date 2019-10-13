@@ -1,0 +1,39 @@
+{
+    "id": "72809703",
+    "face_iamge": "https://img3.doubanio.com/icon/ul72809703-42.jpg",
+    "city": null,
+    "registration_date": "2013-05-21",
+    "introduction": "http://www.ja.gov.cn/contentZt/channel/5c6e83d4bd1b7ccfda76e88f/http://elearning.ruidaedu.com/xcware/video/videoPlay/videoPlay.shtm?cwareID=325&videoID=101卑琐之心不可有，防卑琐之心不可无。忏悔、谦虚、淡定清净、慈悲理解别人的痛苦问心无愧，此心光明平安喜乐，福寿绵长尽人事，听天命爱自己，接受你认为的不公平，接受无常你要做的是寻找让自己舒服的活法情天孽海，明心见性多往下看，就不会贪心身后有余忘缩手观呼吸，正念，寻找本真戒定慧；嗜欲者，逐祸之马接近真实，接近本质你不去面对的，终将会成为你的命运http://fo.sina.com.cn/识好歹需要大智慧脱离生活的修炼都是假把式红尘本无树，直心是道场消除分别心神圣的目标向来是最危险的。一旦目标神圣化，实行手段必然日渐卑鄙允许自己有正常的嫉妒、攀比、骄傲等情绪，但是不要太入戏，不纵容、不压抑哪有那么多真相，自己都搞不懂自己了，更别说别人的杜撰胡扯停止揣测、伺察、察言观色生活的智慧人贵有自知之明，做与能力和德行不相符的事情就是作死心安即归处，心死即坟墓得意坦然，失意淡然；喜而不狂，忧而不伤大家都不容易，值得去欣赏耿直是种病，多微笑选定的路就一心走下去，直到转弯，定时修心。不要纠结纠结是痛苦之源，当下就是最好，不要这山望着那山高德不配位，不疯即魔，必有灾殃。假如生活欺骗了你，不要悲伤，不要心急，忧郁的日子里需要镇静，相信吧，快乐的日子将要来临猜不对不如不猜 深深的反省发自内心的谦和菩萨心肠、金刚手段，观音有一颗心，却有千手千眼吃亏是福你不演我不演生活怎么欢快点，别太较真。事事较真是种病",
+    "nickname": "霍银",
+    "sign": "自强不息厚德载物",
+    "broadcast_url": "https://www.douban.com/people/72809703/statuses",
+    "concerns_num": "737",
+    "follows_num": "120",
+    "groups_num": "491",
+    "events": {
+        "join_num": "1",
+        "interested_num": "1"
+    },
+    "doulist_num": "5",
+    "portfolio_num": null,
+    "photo": {
+        "create_num": "3",
+        "concern_num": "1"
+    },
+    "book": {
+        "reading_num": "6",
+        "wanted_num": "108",
+        "readed_num": "4"
+    },
+    "movie": {
+        "watching_num": "6",
+        "wanted_num": "274",
+        "watched_num": "196"
+    },
+    "music": {
+        "watching_num": null,
+        "wanted_num": null,
+        "watched_num": null
+    },
+    "review_num": null
+}

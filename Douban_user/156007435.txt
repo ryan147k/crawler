@@ -1,0 +1,40 @@
+{
+    "id": "156007435",
+    "face_iamge": "https://img3.doubanio.com/icon/ul156007435-1.jpg",
+    "city": "福建厦门",
+    "registration_date": "2017-01-05",
+    "introduction": "保提基石福音合唱团2011年成立于厦门，隶属于厦门鼓浪屿三一堂保提教会。保提基石合唱团结合了传统教会的合唱编制与现代音乐风格，确立了以黑人Gospel、funk、rock为特质的现代音乐风格。大多数团队成员并非音乐专业出身，但通过数年的专业训练，而成为一支圣乐事工团队。其风格在中国尚属首例，呈现出极为国际化的音乐面貌。",
+    "nickname": "保提基石敬拜团",
+    "sign": null,
+    "broadcast_url": "https://www.douban.com/people/keystone_choir/statuses",
+    "concerns_num": "0",
+    "follows_num": "6",
+    "groups_num": null,
+    "events": {
+        "join_num": null,
+        "interested_num": null
+    },
+    "doulist_num": null,
+    "portfolio_num": null,
+    "photo": {
+        "create_num": null,
+        "concern_num": null
+    },
+    "book": {
+        "reading_num": null,
+        "wanted_num": null,
+        "readed_num": null
+    },
+    "movie": {
+        "watching_num": null,
+        "wanted_num": null,
+        "watched_num": null
+    },
+    "music": {
+        "reading_num": null,
+        "wanted_num": null,
+        "watching_num": null,
+        "watched_num": null
+    },
+    "review_num": null
+}

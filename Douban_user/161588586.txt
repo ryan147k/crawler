@@ -1,0 +1,39 @@
+{
+    "id": "161588586",
+    "face_iamge": "https://img3.doubanio.com/icon/ul161588586-1.jpg",
+    "city": null,
+    "registration_date": "2017-05-20",
+    "introduction": "Abyssal Banshee（深海女妖）：乐队名来源于：“希腊神话传说海妖；记载中，是冥界的引路人。居住的小岛位于墨西拿海峡附近，在那里还同时居住着另外两位海妖斯基拉和卡吕布狄斯。也正是如此，那一带海域早已堆满了受害者的白骨。在希腊神话里，她们有着令凡人无法抗拒的致命歌声”。2017年4月1日，组建于云南。乐队融合了旋律金属和黑暗系摇滚作为主要元素，同时加入了许多中古调式三级、六级音阶作为主要旋律创作来源，让乐队的风格独树一帜，在非常躁动的节奏里还有一丝黑暗凄凉的主旋律，配合双吉他SOLO的编曲方式，让Abyssal Banshee找到了自己的音乐表达方式，加上乐队邀请了国内优秀摇滚音乐制作人鲁俊担任制作人后，Abyssal Banshee的音乐风格变得更加凶猛，更加细致。乐队成员：主唱：敏妮，艺术学院四年级在校生，现任M.E现代音乐培训中心声乐辅导教师。吉他：海涛，师从大红袍乐队吉他手，现任M.E现代音乐培训中心吉他教师。吉他：钟浩，师从大红袍乐队吉他手，现任M.E现代音乐培训中心吉他教师。鼓 ：羽超，职业鼓手，现任M.E现代音乐培训中心鼓教师。",
+    "nickname": "深海女妖",
+    "sign": "Abyssal Banshee",
+    "broadcast_url": "https://www.douban.com/people/161588586/statuses",
+    "concerns_num": null,
+    "follows_num": "0",
+    "groups_num": null,
+    "events": {
+        "join_num": null,
+        "interested_num": null
+    },
+    "doulist_num": null,
+    "portfolio_num": null,
+    "photo": {
+        "create_num": "1",
+        "concern_num": "0"
+    },
+    "book": {
+        "reading_num": null,
+        "wanted_num": null,
+        "readed_num": null
+    },
+    "movie": {
+        "watching_num": null,
+        "wanted_num": null,
+        "watched_num": null
+    },
+    "music": {
+        "watching_num": null,
+        "wanted_num": null,
+        "watched_num": null
+    },
+    "review_num": null
+}

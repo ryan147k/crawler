@@ -1,0 +1,39 @@
+{
+    "id": "54204259",
+    "face_iamge": "https://img1.doubanio.com/icon/ul54204259-39.jpg",
+    "city": "北京",
+    "registration_date": "2011-09-03",
+    "introduction": "由我来重蹈你覆辙",
+    "nickname": "被豌豆汤喝掉",
+    "sign": "别再哭了",
+    "broadcast_url": "https://www.douban.com/people/54204259/statuses",
+    "concerns_num": "94",
+    "follows_num": "113",
+    "groups_num": "55",
+    "events": {
+        "join_num": "22",
+        "interested_num": "32"
+    },
+    "doulist_num": "13",
+    "portfolio_num": null,
+    "photo": {
+        "create_num": "11",
+        "concern_num": "27"
+    },
+    "book": {
+        "reading_num": "4",
+        "wanted_num": "128",
+        "readed_num": "115"
+    },
+    "movie": {
+        "watching_num": "1",
+        "wanted_num": "907",
+        "watched_num": "1008"
+    },
+    "music": {
+        "reading_num": null,
+        "wanted_num": "6",
+        "readed_num": "393"
+    },
+    "review_num": "4"
+}

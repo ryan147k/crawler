@@ -1,0 +1,39 @@
+{
+    "id": "45491100",
+    "face_iamge": "https://img1.doubanio.com/icon/ul45491100-8.jpg",
+    "city": "北京",
+    "registration_date": "2010-09-02",
+    "introduction": "喜欢看电影（特别多），动漫（较多），英剧，美剧，日综，美食综。电影类型最爱的是 悬疑推理片。喜欢的音乐类型：triphop，jazzhiphop，hiphop，民谣，jazz，各种摇滚，【排名最前的最喜欢】还有听很多其他风格，太多就不说了。好音乐太多永远听不完，可是电影好看的越来越少。最喜欢的动漫：银魂最喜欢的电影：幸福终点站最喜欢的英剧：超能少年最喜欢的rapper：eminem国内最喜欢的乐队：草东没有派对最大的心愿：世界和平半素食主义者。一切随心，我对任何事都不会有原则的一定要怎样。吃素原因：环保，动保。无信仰原因。之前吃了两三年的素食，一个人都吃素，多人聚餐的时候偶尔吃点荤，不过后来跟妹妹同居，慢慢也同化了。不过一个人的时候还是吃素多一些。有两只猫：八尾，小默。救助过几十只猫和几条狗。早年还参与网配，比如胥渡吧恶搞配音什么的。不过基本都是龙套。音乐人主页：https://site.douban.com/au/多年前的音乐作品：http://music.163.com/#/radio/?id=345592053&userid=94943130 希望能在这里认识一些志同道合的朋友。",
+    "nickname": "Au死者",
+    "sign": "有些时候只是想静静的死去",
+    "broadcast_url": "https://www.douban.com/people/biantai521/statuses",
+    "concerns_num": "6",
+    "follows_num": "8",
+    "groups_num": "35",
+    "events": {
+        "join_num": "13",
+        "interested_num": "5"
+    },
+    "doulist_num": "2",
+    "portfolio_num": null,
+    "photo": {
+        "create_num": "4",
+        "concern_num": "0"
+    },
+    "book": {
+        "reading_num": null,
+        "wanted_num": "10",
+        "readed_num": "17"
+    },
+    "movie": {
+        "reading_num": null,
+        "wanted_num": "166",
+        "readed_num": "571"
+    },
+    "music": {
+        "watching_num": null,
+        "wanted_num": null,
+        "watched_num": null
+    },
+    "review_num": null
+}

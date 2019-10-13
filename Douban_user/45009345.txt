@@ -1,0 +1,40 @@
+{
+    "id": "45009345",
+    "face_iamge": "https://img3.doubanio.com/icon/ul45009345-3.jpg",
+    "city": "山东东营",
+    "registration_date": "2010-08-20",
+    "introduction": "享受生活，快乐生活！",
+    "nickname": "漫舞六弦",
+    "sign": "向着目标，坚定前行！",
+    "broadcast_url": "https://www.douban.com/people/45009345/statuses",
+    "concerns_num": "1",
+    "follows_num": "7",
+    "groups_num": "16",
+    "events": {
+        "join_num": null,
+        "interested_num": null
+    },
+    "doulist_num": "1",
+    "portfolio_num": null,
+    "photo": {
+        "create_num": "1",
+        "concern_num": "0"
+    },
+    "book": {
+        "reading_num": null,
+        "wanted_num": "7",
+        "readed_num": "4"
+    },
+    "movie": {
+        "reading_num": null,
+        "wanted_num": null,
+        "watching_num": null,
+        "watched_num": null
+    },
+    "music": {
+        "watching_num": "1",
+        "wanted_num": "9",
+        "watched_num": "1"
+    },
+    "review_num": null
+}

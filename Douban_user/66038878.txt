@@ -1,0 +1,39 @@
+{
+    "id": "66038878",
+    "face_iamge": "https://img3.doubanio.com/icon/ul66038878-11.jpg",
+    "city": "重庆",
+    "registration_date": "2012-11-07",
+    "introduction": "         我一直不能打开自己的心结，只能越来越沉默，它像是一把停靠在废宅掉漆的朱红色大门上的生了锈的枷锁。        我渴望爱情，却执拗的只喜欢同性绵长的拥抱和粘稠的亲吻。        我热爱电影，却残忍的只赞美安德烈塔可夫斯基诗意的气氛和英格玛伯格曼圣洁的冷酷。       我钟情阅读，却暴戾的只品尝新鲜出炉的杂文和积淀很久的小说。       我像一个挑食的小姑娘，不喜欢的甩甩马尾，把头扭向一边，大人们怎么说他的营养价值都无动于衷，没有鬼故事是吓不倒我的。       我正在学习如何创造感人肺腑的诗歌，我用以往经历押注，只赢得了母亲的怜悯，世人的不屑，我输了尊严，活下去的尊严。往后都是沉甸甸的，偿还年少轻狂的债务。  ———————————————————————邮箱：zhoudeliang419@live.com",
+    "nickname": "花鸟使",
+    "sign": "不是噩梦，是一片夜的沼泽。",
+    "broadcast_url": "https://www.douban.com/people/66038878/statuses",
+    "concerns_num": "165",
+    "follows_num": "43",
+    "groups_num": "146",
+    "events": {
+        "join_num": "20",
+        "interested_num": "35"
+    },
+    "doulist_num": "9",
+    "portfolio_num": null,
+    "photo": {
+        "create_num": "2",
+        "concern_num": "0"
+    },
+    "book": {
+        "reading_num": "10",
+        "wanted_num": "116",
+        "readed_num": "28"
+    },
+    "movie": {
+        "watching_num": "11",
+        "wanted_num": "171",
+        "watched_num": "802"
+    },
+    "music": {
+        "watching_num": "15",
+        "wanted_num": "5",
+        "watched_num": "35"
+    },
+    "review_num": null
+}

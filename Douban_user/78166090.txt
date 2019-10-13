@@ -1,0 +1,39 @@
+{
+    "id": "78166090",
+    "face_iamge": "https://img3.doubanio.com/icon/ul78166090-21.jpg",
+    "city": "上海",
+    "registration_date": "2013-09-20",
+    "introduction": "Founded in Taipei in 2013, CHIU PI recorded and released 16 online music albums, 3 physical CD albums and a science fiction.CHIU PI is a versatile musician, long exposed to music, painting, photography, theater, martial arts, dance and body movement training. After join ROKON, CHIU PI change the style to eternal and spirituality. It focuses on the internal state of mind: remain fully open to possibilities.He creates avant-garde music that has an ethereal and introspective style, changing the general perception of electronic music.He evaluates the tensions between nature versus technology, culture versus economics, homogeneity versus pluralism, and re-imagines the future of our human experience in a fantastical, poetic, and magical backdrop.Representative work: Zang Zang, SPLENDOR, MARTYR…",
+    "nickname": "邱比",
+    "sign": "CHIU PI",
+    "broadcast_url": "https://www.douban.com/people/Chiu-Pi/statuses",
+    "concerns_num": "3",
+    "follows_num": "966",
+    "groups_num": "1",
+    "events": {
+        "join_num": null,
+        "interested_num": null
+    },
+    "doulist_num": "1",
+    "portfolio_num": null,
+    "photo": {
+        "create_num": "1",
+        "concern_num": "0"
+    },
+    "book": {
+        "reading_num": null,
+        "wanted_num": null,
+        "readed_num": null
+    },
+    "movie": {
+        "watching_num": null,
+        "wanted_num": null,
+        "watched_num": null
+    },
+    "music": {
+        "watching_num": null,
+        "wanted_num": null,
+        "watched_num": null
+    },
+    "review_num": null
+}

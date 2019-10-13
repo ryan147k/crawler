@@ -1,0 +1,40 @@
+{
+    "id": "170071117",
+    "face_iamge": "https://img3.doubanio.com/icon/ul170071117-2.jpg",
+    "city": "北京",
+    "registration_date": "2017-11-24",
+    "introduction": "        个人简介     刘兵，男，汉族。     湖北省松滋市。     词、曲、唱，全能型音乐人。     1993年11月，在湖北荆州电视台上《今夜相约》栏目。     1994年为了追寻梦想到了海南岛，成了一名流浪歌手。     1996年在海口参加第四届青年歌手大赛。     1997年在海口各大露天外场演出。     2000年在三亚各大海鲜排挡演出。     2015年到了首都北京，成了一名北漂歌手；同时，开始创作自己的歌曲。     2016年在北京参加黑龙江卫视《越唱越开心》栏目；同年10月，在北京怀柔圣泉山参加公益演出。     2017年，完成了我的原创专辑（12首歌曲），已发行到全国各大音乐网站，我的每一首原创歌曲都有不同的风格、都有一个故事，每一首歌曲都很正能量的，能带给人们积极向上的精神，让人们开心快乐的生活，真正认识到生活的意义、人生的价值！     本人对音乐有极大的爱好和追求，在未来的道路上，我会更加的努力拼搏，为心中的梦想而坚持到底，为美好的明天而勇往直前。最后，让我们团结一致，创新创业，和谐发展，为实现中华民族伟大复兴而努力奋斗！",
+    "nickname": "刘兵",
+    "sign": null,
+    "broadcast_url": "https://www.douban.com/people/lb19720913/statuses",
+    "concerns_num": null,
+    "follows_num": "0",
+    "groups_num": null,
+    "events": {
+        "join_num": null,
+        "interested_num": null
+    },
+    "doulist_num": "1",
+    "portfolio_num": null,
+    "photo": {
+        "create_num": "3",
+        "concern_num": "0"
+    },
+    "book": {
+        "reading_num": null,
+        "wanted_num": null,
+        "readed_num": null
+    },
+    "movie": {
+        "watching_num": null,
+        "wanted_num": null,
+        "watched_num": null
+    },
+    "music": {
+        "reading_num": null,
+        "wanted_num": null,
+        "watching_num": null,
+        "watched_num": null
+    },
+    "review_num": null
+}

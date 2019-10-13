@@ -1,0 +1,39 @@
+{
+    "id": "177980467",
+    "face_iamge": "https://img3.doubanio.com/icon/ul177980467-3.jpg",
+    "city": null,
+    "registration_date": "2018-04-28",
+    "introduction": "我絕對不會變得像我父親那樣。",
+    "nickname": "憂鬱的朋克青年",
+    "sign": null,
+    "broadcast_url": "https://www.douban.com/people/177980467/statuses",
+    "concerns_num": "21",
+    "follows_num": "2",
+    "groups_num": "5",
+    "events": {
+        "join_num": null,
+        "interested_num": null
+    },
+    "doulist_num": "2",
+    "portfolio_num": null,
+    "photo": {
+        "create_num": null,
+        "concern_num": null
+    },
+    "book": {
+        "reading_num": null,
+        "wanted_num": "113",
+        "readed_num": "50"
+    },
+    "movie": {
+        "watching_num": "1",
+        "wanted_num": "121",
+        "watched_num": "107"
+    },
+    "music": {
+        "reading_num": null,
+        "wanted_num": "4",
+        "readed_num": "13"
+    },
+    "review_num": null
+}

@@ -1,0 +1,40 @@
+{
+    "id": "49730996",
+    "face_iamge": "https://img1.doubanio.com/icon/user_normal.jpg",
+    "city": "广东中山",
+    "registration_date": "2011-02-26",
+    "introduction": "三分热度。",
+    "nickname": "你可以叫我老坛",
+    "sign": "老坛",
+    "broadcast_url": "https://www.douban.com/people/49730996/statuses",
+    "concerns_num": "7",
+    "follows_num": "0",
+    "groups_num": "11",
+    "events": {
+        "join_num": null,
+        "interested_num": null
+    },
+    "doulist_num": "7",
+    "portfolio_num": null,
+    "photo": {
+        "create_num": "1",
+        "concern_num": "0"
+    },
+    "book": {
+        "reading_num": "3",
+        "wanted_num": "4",
+        "readed_num": "1"
+    },
+    "movie": {
+        "reading_num": null,
+        "wanted_num": "12",
+        "readed_num": "38"
+    },
+    "music": {
+        "reading_num": null,
+        "watching_num": null,
+        "wanted_num": null,
+        "watched_num": null
+    },
+    "review_num": null
+}

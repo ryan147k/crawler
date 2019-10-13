@@ -1,0 +1,39 @@
+{
+    "id": "128546128",
+    "face_iamge": "https://img3.doubanio.com/icon/ul128546128-3.jpg",
+    "city": "北京",
+    "registration_date": "2015-05-30",
+    "introduction": "邬先生的乐队是一支独立的民谣摇滚乐队；乐队风格多样，民谣，funk 布鲁斯 说唱等皆融入其中。其作品注重思想，坚持摇滚人内在的表达方式。歌曲满含北方人的直爽，音乐人的执着以及仕途的悲凉；是近些年来难得一见的一支多元素民谣摇滚乐队。",
+    "nickname": "邬先生乐队",
+    "sign": "邬先生乐队-《老张》巡演",
+    "broadcast_url": "https://www.douban.com/people/128546128/statuses",
+    "concerns_num": "0",
+    "follows_num": "5",
+    "groups_num": null,
+    "events": {
+        "join_num": null,
+        "interested_num": null
+    },
+    "doulist_num": "2",
+    "portfolio_num": null,
+    "photo": {
+        "create_num": null,
+        "concern_num": null
+    },
+    "book": {
+        "reading_num": null,
+        "wanted_num": null,
+        "readed_num": null
+    },
+    "movie": {
+        "watching_num": null,
+        "wanted_num": null,
+        "watched_num": null
+    },
+    "music": {
+        "watching_num": null,
+        "wanted_num": null,
+        "watched_num": null
+    },
+    "review_num": null
+}

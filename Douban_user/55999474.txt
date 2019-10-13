@@ -1,0 +1,40 @@
+{
+    "id": "55999474",
+    "face_iamge": "https://img3.doubanio.com/icon/ul55999474-4.jpg",
+    "city": "四川成都",
+    "registration_date": "2011-11-13",
+    "introduction": "記兿工作室盛安街 凯旋中心B座82218384236631",
+    "nickname": "悠然最南山",
+    "sign": null,
+    "broadcast_url": "https://www.douban.com/people/55999474/statuses",
+    "concerns_num": "20",
+    "follows_num": "32",
+    "groups_num": "12",
+    "events": {
+        "join_num": null,
+        "interested_num": null
+    },
+    "doulist_num": "2",
+    "portfolio_num": null,
+    "photo": {
+        "create_num": "1",
+        "concern_num": "0"
+    },
+    "book": {
+        "reading_num": null,
+        "wanted_num": "1",
+        "readed_num": "1"
+    },
+    "movie": {
+        "reading_num": null,
+        "wanted_num": null,
+        "watching_num": null,
+        "watched_num": null
+    },
+    "music": {
+        "reading_num": null,
+        "wanted_num": "1",
+        "readed_num": "1"
+    },
+    "review_num": "1"
+}

@@ -1,0 +1,39 @@
+{
+    "id": "63430489",
+    "face_iamge": "https://img1.doubanio.com/icon/ul63430489-7.jpg",
+    "city": "云南昆明",
+    "registration_date": "2012-07-27",
+    "introduction": "云南著名说唱团体CASH BROS铠石兄弟于2014年成立,至今共发行过两张录音室专辑,<<FLY SO HIGH>>、<<LOVE FOR LIFE>>三首EP.<<Listen to the sound>>、<<Dark Horse>>、<<Kumamon>>.唱作俱佳的铠石从歌词创作到编曲制作都保持着他们独有的音乐态度。拥有丰富舞台经验的铠石频繁出席在各大音乐现场,并且参与过全国多家电视台节的目录制。",
+    "nickname": "Cash Bros",
+    "sign": "云南著名说唱团队铠石兄弟",
+    "broadcast_url": "https://www.douban.com/people/tigerpd/statuses",
+    "concerns_num": "36",
+    "follows_num": "5",
+    "groups_num": null,
+    "events": {
+        "join_num": null,
+        "interested_num": null
+    },
+    "doulist_num": "1",
+    "portfolio_num": null,
+    "photo": {
+        "create_num": null,
+        "concern_num": null
+    },
+    "book": {
+        "reading_num": null,
+        "wanted_num": null,
+        "readed_num": null
+    },
+    "movie": {
+        "watching_num": null,
+        "wanted_num": null,
+        "watched_num": null
+    },
+    "music": {
+        "watching_num": null,
+        "wanted_num": null,
+        "watched_num": null
+    },
+    "review_num": null
+}

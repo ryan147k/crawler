@@ -1,0 +1,40 @@
+{
+    "id": "50607218",
+    "face_iamge": "https://img1.doubanio.com/icon/ul50607218-19.jpg",
+    "city": "北京",
+    "registration_date": "2011-04-04",
+    "introduction": "【云上声音】携手理想后花园乐队于今年8月开启全国巡演，第一季巡演邀请理想后花园乐队作为常驻乐队，与巡演城市的当地优秀乐队联合演出，将最劲爆的音乐现场呈现给大家。首场在北京Modernsky Lab举办，完美演出，现场持续嗨爆到凌晨。 第一季巡演正在进行中，目前巡演城市有；北京、青岛、济南、石家庄、保定、成都、重庆等。后续巡演城市：西安、广州、厦门、福州、上海等其它城市及合作乐队，请关注乐队公众号。  第二季巡演的常驻乐队火热招募中，欢迎有想法、爱音乐、迷现场的你们加入，音乐风格不限。在这里你可以找到志同道合的音乐伙伴，亦或是追求刺激、风格迥异的音乐类型一起同台演出，在云上碰撞出专属于音乐的火花。10月4 青岛10月5 济南10月9 石家庄10月10 保定10月27 重庆11月02 成都后续巡演日期请关注乐队公众号",
+    "nickname": "理想后花园乐队",
+    "sign": "没有谢幕的表演 只有精彩的年华",
+    "broadcast_url": "https://www.douban.com/people/50607218/statuses",
+    "concerns_num": "14",
+    "follows_num": "51",
+    "groups_num": "25",
+    "events": {
+        "join_num": "44",
+        "interested_num": "28"
+    },
+    "doulist_num": "2",
+    "portfolio_num": null,
+    "photo": {
+        "create_num": "1",
+        "concern_num": "0"
+    },
+    "book": {
+        "reading_num": null,
+        "wanted_num": null,
+        "readed_num": null
+    },
+    "movie": {
+        "reading_num": null,
+        "wanted_num": null,
+        "watching_num": null,
+        "watched_num": null
+    },
+    "music": {
+        "watching_num": null,
+        "wanted_num": null,
+        "watched_num": null
+    },
+    "review_num": null
+}

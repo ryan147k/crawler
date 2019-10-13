@@ -1,0 +1,40 @@
+{
+    "id": "41282110",
+    "face_iamge": "https://img3.doubanio.com/icon/ul41282110-4.jpg",
+    "city": "天津",
+    "registration_date": "2010-05-28",
+    "introduction": "zzz",
+    "nickname": "柳芯宇",
+    "sign": "Alexanderstan",
+    "broadcast_url": "https://www.douban.com/people/liuxinyu970226/statuses",
+    "concerns_num": "27",
+    "follows_num": "1",
+    "groups_num": "49",
+    "events": {
+        "join_num": null,
+        "interested_num": null
+    },
+    "doulist_num": "3",
+    "portfolio_num": null,
+    "photo": {
+        "create_num": null,
+        "concern_num": null
+    },
+    "book": {
+        "reading_num": null,
+        "wanted_num": null,
+        "readed_num": null
+    },
+    "movie": {
+        "reading_num": null,
+        "watching_num": null,
+        "wanted_num": null,
+        "watched_num": null
+    },
+    "music": {
+        "watching_num": "2",
+        "wanted_num": "5",
+        "watched_num": "134"
+    },
+    "review_num": "4"
+}

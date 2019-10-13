@@ -1,0 +1,39 @@
+{
+    "id": "152635657",
+    "face_iamge": "https://img3.doubanio.com/icon/ul152635657-4.jpg",
+    "city": "广东广州",
+    "registration_date": "2016-10-17",
+    "introduction": "br乐队是广州华传文化传播有限公司旗下的一支乐队，前身为独立乐队wolf乐队，六个人高中就开始一起组乐队，然后大学时就分开了，大学毕业后，大家都有了个自己的工作，但是大家都不想就这样放弃了自己的音乐梦想，于是2016年的时候wolf乐队其中的4个人又重组了乐队改名为br乐队。br乐队曾于2016年参加滚石原创乐团比赛进入复赛，代表作品《末日狂欢》、《马戏团》等，在虾米音乐上都能搜到。现在的成员：主唱deno（刘国培）主音吉他手（赖广顺）键盘手（陈君健）bass手蜗牛叔叔（练佳函）。",
+    "nickname": "BR乐队",
+    "sign": null,
+    "broadcast_url": "https://www.douban.com/people/bryuedui/statuses",
+    "concerns_num": "0",
+    "follows_num": "1",
+    "groups_num": null,
+    "events": {
+        "join_num": null,
+        "interested_num": null
+    },
+    "doulist_num": null,
+    "portfolio_num": null,
+    "photo": {
+        "create_num": "2",
+        "concern_num": "0"
+    },
+    "book": {
+        "reading_num": null,
+        "wanted_num": null,
+        "readed_num": null
+    },
+    "movie": {
+        "watching_num": null,
+        "wanted_num": null,
+        "watched_num": null
+    },
+    "music": {
+        "watching_num": null,
+        "wanted_num": null,
+        "watched_num": null
+    },
+    "review_num": null
+}

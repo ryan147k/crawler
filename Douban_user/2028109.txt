@@ -1,0 +1,40 @@
+{
+    "id": "2028109",
+    "face_iamge": "https://img3.doubanio.com/icon/ul2028109-16.jpg",
+    "city": "四川成都",
+    "registration_date": "2007-11-23",
+    "introduction": "接触的人多了，就开始喜欢畜生了。",
+    "nickname": "Shadow",
+    "sign": "有多远就走多远...",
+    "broadcast_url": "https://www.douban.com/people/Haixiaozpf/statuses",
+    "concerns_num": "21",
+    "follows_num": "0",
+    "groups_num": "28",
+    "events": {
+        "join_num": "5",
+        "interested_num": "21"
+    },
+    "doulist_num": "11",
+    "portfolio_num": null,
+    "photo": {
+        "create_num": "1",
+        "concern_num": "0"
+    },
+    "book": {
+        "reading_num": "39",
+        "wanted_num": "78",
+        "readed_num": "11"
+    },
+    "movie": {
+        "reading_num": null,
+        "wanted_num": "117",
+        "readed_num": "55"
+    },
+    "music": {
+        "reading_num": null,
+        "wanted_num": null,
+        "watching_num": null,
+        "watched_num": null
+    },
+    "review_num": null
+}

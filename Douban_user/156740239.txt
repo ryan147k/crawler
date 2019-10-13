@@ -1,0 +1,40 @@
+{
+    "id": "156740239",
+    "face_iamge": "https://img3.doubanio.com/icon/ul156740239-5.jpg",
+    "city": "河北邯郸",
+    "registration_date": "2017-01-22",
+    "introduction": "水岸，独立音乐人。2017年9月录制并发行个人原创民谣专辑《水·岸》；2018年发行专辑《草草集》、《木末浅浅》、《天外来客》等（Demo） ，诗歌及文艺随笔作品发表于个人博客及公众号“水岸时光”。",
+    "nickname": "歌者水岸",
+    "sign": "独立音乐人",
+    "broadcast_url": "https://www.douban.com/people/shuian_times/statuses",
+    "concerns_num": "22",
+    "follows_num": "38",
+    "groups_num": "26",
+    "events": {
+        "join_num": null,
+        "interested_num": null
+    },
+    "doulist_num": null,
+    "portfolio_num": null,
+    "photo": {
+        "create_num": "1",
+        "concern_num": "0"
+    },
+    "book": {
+        "reading_num": null,
+        "wanted_num": null,
+        "readed_num": null
+    },
+    "movie": {
+        "reading_num": null,
+        "wanted_num": null,
+        "watching_num": null,
+        "watched_num": null
+    },
+    "music": {
+        "watching_num": null,
+        "wanted_num": null,
+        "watched_num": null
+    },
+    "review_num": "1"
+}

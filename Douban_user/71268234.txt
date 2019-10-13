@@ -1,0 +1,39 @@
+{
+    "id": "71268234",
+    "face_iamge": "https://img3.doubanio.com/icon/ul71268234-3.jpg",
+    "city": "山西太原",
+    "registration_date": "2013-04-15",
+    "introduction": "郭经纬，BATTER ，歌手。是作词、作曲、演唱、混缩等一手包办的全能型歌手。独特的音乐才能和创作天赋，他声音独特，又带着淡淡的伤感，他曲折的经历又带给他对生活和对音乐不一样的感受，给人以一种共鸣。代表作品：《改变》《高三那段路》。",
+    "nickname": "BATTER郭经纬",
+    "sign": null,
+    "broadcast_url": "https://www.douban.com/people/SDHFSG/statuses",
+    "concerns_num": null,
+    "follows_num": "0",
+    "groups_num": null,
+    "events": {
+        "join_num": null,
+        "interested_num": null
+    },
+    "doulist_num": null,
+    "portfolio_num": null,
+    "photo": {
+        "create_num": null,
+        "concern_num": null
+    },
+    "book": {
+        "reading_num": null,
+        "wanted_num": null,
+        "readed_num": null
+    },
+    "movie": {
+        "watching_num": null,
+        "wanted_num": null,
+        "watched_num": null
+    },
+    "music": {
+        "watching_num": null,
+        "wanted_num": null,
+        "watched_num": null
+    },
+    "review_num": null
+}

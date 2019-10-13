@@ -1,0 +1,40 @@
+{
+    "id": "90783701",
+    "face_iamge": "https://img3.doubanio.com/icon/ul90783701-5.jpg",
+    "city": "北京",
+    "registration_date": "2014-06-10",
+    "introduction": "音乐人潘凡，出生于甘肃兰州，毕业于北京广播学院（现中国传媒大学）录音系；代表作品：中央人民广播电台MusicRadio音乐之声《我要我的音乐》",
+    "nickname": "潘凡",
+    "sign": null,
+    "broadcast_url": "https://www.douban.com/people/pfaudio/statuses",
+    "concerns_num": null,
+    "follows_num": "0",
+    "groups_num": null,
+    "events": {
+        "join_num": null,
+        "interested_num": null
+    },
+    "doulist_num": "3",
+    "portfolio_num": null,
+    "photo": {
+        "create_num": "1",
+        "concern_num": "0"
+    },
+    "book": {
+        "reading_num": null,
+        "wanted_num": null,
+        "readed_num": null
+    },
+    "movie": {
+        "watching_num": null,
+        "wanted_num": null,
+        "watched_num": null
+    },
+    "music": {
+        "reading_num": null,
+        "wanted_num": null,
+        "watching_num": null,
+        "watched_num": null
+    },
+    "review_num": null
+}

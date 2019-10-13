@@ -1,0 +1,40 @@
+{
+    "id": "49428106",
+    "face_iamge": "https://img1.doubanio.com/icon/ul49428106-17.jpg",
+    "city": "北京",
+    "registration_date": "2011-02-14",
+    "introduction": "要努力啊",
+    "nickname": "往返",
+    "sign": null,
+    "broadcast_url": "https://www.douban.com/people/49428106/statuses",
+    "concerns_num": "13",
+    "follows_num": "9",
+    "groups_num": "1",
+    "events": {
+        "join_num": "1",
+        "interested_num": "3"
+    },
+    "doulist_num": "4",
+    "portfolio_num": null,
+    "photo": {
+        "create_num": "1",
+        "concern_num": "0"
+    },
+    "book": {
+        "reading_num": "3",
+        "wanted_num": "11",
+        "readed_num": "5"
+    },
+    "movie": {
+        "reading_num": null,
+        "wanted_num": "5",
+        "readed_num": "23"
+    },
+    "music": {
+        "reading_num": null,
+        "wanted_num": null,
+        "watching_num": null,
+        "watched_num": null
+    },
+    "review_num": null
+}

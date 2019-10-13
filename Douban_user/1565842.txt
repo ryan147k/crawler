@@ -1,0 +1,39 @@
+{
+    "id": "1565842",
+    "face_iamge": "https://img1.doubanio.com/icon/ul1565842-19.jpg",
+    "city": "福建厦门",
+    "registration_date": "2007-05-21",
+    "introduction": "blog地址：www.songtaste.com/user/1649459/国家是人的国家，人不是国家的人！-不知名网友立场摇摆不定，观点一直更正，要的不是姿态，是真理。                                                                                                                         人格偶尔分裂，致力于发现更多的美好，看清更多的真相。真正的个人主义在于把你自己这块材料铸造成个东西。— 胡适 由于自我实现的人较少依赖他人，所以，他们对别人较少既爱又恨的矛盾心理，他们既不怎么渴望也不怎么敌视敌人，他们不太需要他人的赞扬和慈爱，他们不那么汲汲于荣誉、威信和奖赏。——马斯洛  @wanghaoxuan: 判断一个人是否成熟，就看他能否理解两种互相冲突的思想。                            刘瑜：难道人的社会性不正如他的个体性一样，是人性的另一维度吗？刘瑜：拒绝任何形式谄媚的人最令人欣赏 世界上只有一种真正的英雄主义，那就是在认识生活的真相之后还依然热爱生活。 ——罗曼 • 罗兰 独裁者把国家看得至高无上，因为他们代表着国家，国家至高无上其实就是他们自己至高无上，至于百姓那是无所谓的，所以他们眼里主权高于人权，为了主权可以牺牲人权…国家的主权之所以重要，因为它可以保护人权，抵抗外来侵犯，反过来如果这个主权自己就侵犯人权，要这样的主权有什么用。”——茅于轼 G+William Wang:没有竞争就无所谓选择，没有选择就无所谓自由！（非原语）世界上最伟大最纯粹最深沉的爱情，乃是暗恋。-听说是恩格斯说的选择性真相是一种真相，独立存在时它没有错，但当它对其余的真相具有误导性的时候，他便可能异化为最大的谎言。我们能经验到的最美丽事物就是神秘 -爱因斯坦",
+    "nickname": "……",
+    "sign": null,
+    "broadcast_url": "https://www.douban.com/people/zhizilu/statuses",
+    "concerns_num": "106",
+    "follows_num": "79",
+    "groups_num": "112",
+    "events": {
+        "join_num": "1",
+        "interested_num": "3"
+    },
+    "doulist_num": "9",
+    "portfolio_num": null,
+    "photo": {
+        "create_num": "4",
+        "concern_num": "0"
+    },
+    "book": {
+        "reading_num": null,
+        "wanted_num": "127",
+        "readed_num": "91"
+    },
+    "movie": {
+        "watching_num": "1",
+        "wanted_num": "391",
+        "watched_num": "572"
+    },
+    "music": {
+        "reading_num": null,
+        "wanted_num": "50",
+        "readed_num": "37"
+    },
+    "review_num": null
+}

@@ -1,0 +1,39 @@
+{
+    "id": "96608049",
+    "face_iamge": "https://img3.doubanio.com/icon/ul96608049-3.jpg",
+    "city": "北京",
+    "registration_date": "2014-08-10",
+    "introduction": "一个极其平凡的人",
+    "nickname": "疯狂的小麦",
+    "sign": null,
+    "broadcast_url": "https://www.douban.com/people/96608049/statuses",
+    "concerns_num": "4",
+    "follows_num": "12",
+    "groups_num": "12",
+    "events": {
+        "join_num": "2",
+        "interested_num": "4"
+    },
+    "doulist_num": "3",
+    "portfolio_num": null,
+    "photo": {
+        "create_num": null,
+        "concern_num": null
+    },
+    "book": {
+        "reading_num": null,
+        "wanted_num": "53",
+        "readed_num": "31"
+    },
+    "movie": {
+        "reading_num": null,
+        "wanted_num": "99",
+        "readed_num": "751"
+    },
+    "music": {
+        "reading_num": null,
+        "wanted_num": "1",
+        "readed_num": "1"
+    },
+    "review_num": null
+}

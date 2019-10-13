@@ -1,0 +1,39 @@
+{
+    "id": "48682226",
+    "face_iamge": "https://img3.doubanio.com/icon/ul48682226-14.jpg",
+    "city": "Tōkyō, Japan",
+    "registration_date": "2011-01-09",
+    "introduction": "職業音樂製作人，作／編曲，混音，Sound Designer，Jazz Keyboardist。現役網易Sound Team成員，鍵盤手偶爾也打鼓。泡沫景氣期八〇九〇年代的Tokyo文化與縄紋文化愛好者。電視遊戯，主機遊戯，Ｊ－ＲＰＧ，ＣｉＴＹ－ＰＯＰ，爵士楽，黒人由來的現代樂，Fashion，分子人類斅、字體、語言文字、音韻斅（主日琉・漢・百粵・南島語族）民間愛好者，從小斅習及書寫繁軆。iNFP/４ｗ５。血液型AB。父系母系均爲南島髙發型。NS FC: SW-7700-9011-5830 來加吧^_^網易音樂人首頁：http://music.163.com/#/artist?id=12237331（持續更新中）豆瓣音樂站：http://site.douban.com/Luvox/（經已中止更新）SoundCloud: https://soundcloud.com/soundluvox（基本上不更新）知乎：https://www.zhihu.com/people/administor商業請求請聯繫電郵：sounddesign@foxmail.com製作依頼は上記のメール迄御連絡下さい※由於實在是太多人問，請勿私信諮詢我關於日本音樂留斅及斅校亊宜，我非專業留斅仲介，也離開斅校多年，日常亊繁已沒有精力各個回復，我此前有在知乎上回答過音樂斅校的推薦類問題，可以的話煩請検索一下，最緊要的還是上YahooJP抑㦯谷歌検索斅校官網。備攷欄：⿰⿱⿲⿳⿴⿵⿶⿷⿸⿹⿺⿻",
+    "nickname": "蛋喜",
+    "sign": "䨻龘䲜靐齉䨺䴒䶫龗麤",
+    "broadcast_url": null,
+    "concerns_num": null,
+    "follows_num": null,
+    "groups_num": null,
+    "events": {
+        "join_num": null,
+        "interested_num": null
+    },
+    "doulist_num": null,
+    "portfolio_num": null,
+    "photo": {
+        "create_num": "1",
+        "concern_num": "0"
+    },
+    "book": {
+        "reading_num": "18",
+        "wanted_num": "110",
+        "readed_num": "37"
+    },
+    "movie": {
+        "reading_num": null,
+        "wanted_num": "113",
+        "readed_num": "143"
+    },
+    "music": {
+        "watching_num": "16",
+        "wanted_num": "147",
+        "watched_num": "72"
+    },
+    "review_num": "10"
+}

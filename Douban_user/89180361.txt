@@ -1,0 +1,40 @@
+{
+    "id": "89180361",
+    "face_iamge": "https://img3.doubanio.com/icon/ul89180361-22.jpg",
+    "city": "浙江宁波",
+    "registration_date": "2014-05-18",
+    "introduction": "冬青，1991年5月26日出生于山东省济南市，中国内地创作男歌手。2004年拥有人生中第一把吉他开始接触流行音乐，2006年开始学习爵士鼓。2007年学生时代组建第一支电声乐队担任主唱。2008年开始尝试自己写歌，同年因参加一档电台音乐节目开始以冬青的名字出现。2009年12月他隐瞒家人退学放手追求自己的音乐理想。2010年因受涅槃乐队（Nirvana）和Grunge音乐的影响，与几位音乐好友一起在济南组建“蚂蚁乐队”担任鼓手，2011年乐队参加某饮品主办的乐队大赛获地区二等奖，2011年底乐队解散。2014年12月举办首场个人音乐作品专场演出。2015年6月开启全国巡演。2015年11月开始录制首张个人专辑。2016年8月独立发行单曲《城市》，同年10月发行单曲《往昔》。2016年10月携乐队参加宁波首届室内原创音乐节演出。11月携乐队参加草莓音乐节生活馆演出。2017年5月独立发行首张个人专辑《每一个瞬间》。同时携乐队开启新专辑发行全国巡演。2017年6月携全整编音乐团队举行新专辑首唱会。代表作品：往昔，木棉，伊豆的舞女，雨泪花，你等",
+    "nickname": "冬青",
+    "sign": "I will grow through this pain;",
+    "broadcast_url": "https://www.douban.com/people/89180361/statuses",
+    "concerns_num": "0",
+    "follows_num": "1",
+    "groups_num": null,
+    "events": {
+        "join_num": "17",
+        "interested_num": "2017"
+    },
+    "doulist_num": "2",
+    "portfolio_num": null,
+    "photo": {
+        "create_num": "1",
+        "concern_num": "0"
+    },
+    "book": {
+        "reading_num": null,
+        "wanted_num": null,
+        "readed_num": null
+    },
+    "movie": {
+        "watching_num": null,
+        "wanted_num": null,
+        "watched_num": null
+    },
+    "music": {
+        "reading_num": null,
+        "wanted_num": null,
+        "watching_num": null,
+        "watched_num": null
+    },
+    "review_num": null
+}

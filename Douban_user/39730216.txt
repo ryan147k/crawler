@@ -1,0 +1,39 @@
+{
+    "id": "39730216",
+    "face_iamge": "https://img3.doubanio.com/icon/ul39730216-13.jpg",
+    "city": "河南郑州",
+    "registration_date": "2010-04-26",
+    "introduction": "flag of 2019:1、看书不少于12本，平均每月一本。《房地产项目运营管理》、《一本书看透房地产》等专业书籍不少于3本。2、装修完新家。√3、加薪至18w以上。下半年：1、加薪至20w以上。2、对房地产行业各个条线工作建立知识框架；3、",
+    "nickname": "孙悟空他二舅",
+    "sign": "好青年都在过屎一样的生活",
+    "broadcast_url": "https://www.douban.com/people/39730216/statuses",
+    "concerns_num": "204",
+    "follows_num": "150",
+    "groups_num": "112",
+    "events": {
+        "join_num": "15",
+        "interested_num": "11"
+    },
+    "doulist_num": "16",
+    "portfolio_num": null,
+    "photo": {
+        "create_num": "2",
+        "concern_num": "0"
+    },
+    "book": {
+        "reading_num": "4",
+        "wanted_num": "18",
+        "readed_num": "109"
+    },
+    "movie": {
+        "reading_num": null,
+        "wanted_num": "106",
+        "readed_num": "628"
+    },
+    "music": {
+        "watching_num": "12",
+        "wanted_num": "41",
+        "watched_num": "227"
+    },
+    "review_num": "12"
+}

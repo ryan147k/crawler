@@ -1,0 +1,41 @@
+{
+    "id": "3584256",
+    "face_iamge": "https://img1.doubanio.com/icon/ul3584256-38.jpg",
+    "city": "陕西西安",
+    "registration_date": "2009-02-04",
+    "introduction": "我行其野，芃芃其麥。 ",
+    "nickname": "麥子",
+    "sign": "以梦为马",
+    "broadcast_url": "https://www.douban.com/people/Rubycui/statuses",
+    "concerns_num": "37",
+    "follows_num": "54",
+    "groups_num": "46",
+    "events": {
+        "join_num": "20",
+        "interested_num": "19"
+    },
+    "doulist_num": "1",
+    "portfolio_num": null,
+    "photo": {
+        "create_num": null,
+        "concern_num": null
+    },
+    "book": {
+        "reading_num": "9",
+        "wanted_num": "9",
+        "readed_num": "66"
+    },
+    "movie": {
+        "reading_num": null,
+        "wanted_num": null,
+        "watching_num": null,
+        "watched_num": null
+    },
+    "music": {
+        "reading_num": null,
+        "wanted_num": null,
+        "watching_num": null,
+        "watched_num": null
+    },
+    "review_num": null
+}

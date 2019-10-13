@@ -1,0 +1,39 @@
+{
+    "id": "164804700",
+    "face_iamge": "https://img3.doubanio.com/icon/ul164804700-2.jpg",
+    "city": "San Francisco Bay Area, United States",
+    "registration_date": "2017-08-04",
+    "introduction": "是时候下载友邻了 友邻们加起来微信: don_ni* 郑执在一席的talk一语成谶：“如果此地终会消亡，这些灵魂又将何处安放.”* 贾木许,洪尚秀,杨德昌,考里斯马基,王家卫; Jazz/Folk/坂本龙一* 80后男社畜. 吃了没文化的亏.  豆瓣真是我的精神角落和树洞, 请谨慎关注. * 子夜书社的博客http://blog.sina.com.cn/ziyeshushe * 世界上真正的原创，只有自己的人生。（日语：この世界に本当のオリジナルは、自分の人生しかないですから。）   —— 庵野秀明* “我在全世界最神圣的城市离上帝最近的地方祈祷了你的健康和幸福”       —— 3/23/2019* “贵瓣网友在现实中不是一个比一个低调，被人问起「你听说过豆瓣么」都慌不迭摇手说不知道。背后熟人也该说你，不知风情，不懂文艺”     —— 滕子京* podcast深度听众: 子夜书社-得意忘形-天书-电影不无聊-薄荷糖电影-反派影评-天糖电影苑-文化土豆-后浪剧场-贝壳电台BakerRadio-闲白儿电台-野史下酒-灭茶苦茶-日谈公园-和宇宙结婚-大内密谈-迷失音乐-半斤八两抡电影-耳朵借我-不可理论-井户端会议-西海之声 (列表继续增长中)* 把课外读物focus在: 牛津通识读本VSI. * 一日三省吾身：“兴趣颇广, 心得全无”Trello: Scrum project management",
+    "nickname": "F  o  c  u  s",
+    "sign": "15-445, 6.824",
+    "broadcast_url": "https://www.douban.com/people/164804700/statuses",
+    "concerns_num": "1885",
+    "follows_num": "412",
+    "groups_num": "19",
+    "events": {
+        "join_num": null,
+        "interested_num": null
+    },
+    "doulist_num": "13",
+    "portfolio_num": null,
+    "photo": {
+        "create_num": "7",
+        "concern_num": "0"
+    },
+    "book": {
+        "reading_num": "454",
+        "wanted_num": "2269",
+        "readed_num": "176"
+    },
+    "movie": {
+        "watching_num": "30",
+        "wanted_num": "1610",
+        "watched_num": "2702"
+    },
+    "music": {
+        "watching_num": "104",
+        "wanted_num": "640",
+        "watched_num": "719"
+    },
+    "review_num": "1"
+}

@@ -1,0 +1,39 @@
+{
+    "id": "156576053",
+    "face_iamge": "https://img3.doubanio.com/icon/ul156576053-3.jpg",
+    "city": "新疆喀什",
+    "registration_date": "2017-01-18",
+    "introduction": "本名：何游洲，汉族，摩羯座，1984年1月6日出生于四川南充，满一岁后跟随父母来到新疆喀什地区，长期居住，2010年至今在伽师县卫生局卫生监督所工作。由于从小酷爱音乐，利用工作之余，一直坚持在音乐的道路上，歌声走心更富有感染力。未受过专业的音乐教育和培训，通过自学研究唱歌，成为录音和后期制作的初学者。2012年加入火焱燚乐队担任主唱，多次参加春晚、综艺节目、酒吧歌手、婚礼歌手等演出。主要成绩：2017年夺得《喀什我最牛》电视栏目年度总冠军；2018年夺得《喀什我最牛 春晚我来了》电视栏目年度季军。个人宣言：态度决定与命运，先做人，后做事；低调做人，高调做事！在能有各种演出机会的舞台上积累和修炼音乐素养。",
+    "nickname": "何游洲",
+    "sign": null,
+    "broadcast_url": "https://www.douban.com/people/heyouzhou/statuses",
+    "concerns_num": null,
+    "follows_num": "0",
+    "groups_num": null,
+    "events": {
+        "join_num": null,
+        "interested_num": null
+    },
+    "doulist_num": null,
+    "portfolio_num": null,
+    "photo": {
+        "create_num": "1",
+        "concern_num": "0"
+    },
+    "book": {
+        "reading_num": null,
+        "wanted_num": null,
+        "readed_num": null
+    },
+    "movie": {
+        "watching_num": null,
+        "wanted_num": null,
+        "watched_num": null
+    },
+    "music": {
+        "watching_num": null,
+        "wanted_num": null,
+        "watched_num": null
+    },
+    "review_num": null
+}

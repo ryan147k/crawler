@@ -1,0 +1,39 @@
+{
+    "id": "1389386",
+    "face_iamge": "https://img3.doubanio.com/icon/ul1389386-111.jpg",
+    "city": "Kyoto, Japan",
+    "registration_date": "2007-01-16",
+    "introduction": "blog地址：www.douban.com/people/1389386/notes                                扫弦躁躁如急雨，点弦卡卡如私语。嗝嗝巴巴错杂弹，大呼小叫换着玩。——————————打口钻眼压路原，中古见本和纯原。百代环球和华纳，日版美版加拿大。——————————家中单块堆成山，一把木琴打江山；私藏芬达很多把，演出一个都不耍。——————————日啖一瓶念慈庵，脚踏破鞋着旧衫。乱写乱拍和乱画，Post Emo indie-rock。——————————My Works & Projects:【A Hidden Trace】（Solo Project）：http://www.douban.com/artist/aht/【PollySays】（4 or 8-Bit）：http://www.douban.com/artist/polly【Flipside】（RIP）：http://www.douban.com/artist/flipside/【GoodNight,Sleep Well】（Acoustic）：http://www.douban.com/artist/goodnight/【Chinese Football】：http://site.douban.com/chinesefootball/网络虚拟厂牌、乌托邦：【珊瑚】http://www.douban.com/label/coral/_____________________新浪围脖 http://t.sina.com.cn/ahiddentraceinstagram：http://instagram.com/ahiddentrace/        ",
+    "nickname": "黑猫警长",
+    "sign": "Telecaster FanClub",
+    "broadcast_url": "https://www.douban.com/people/aht/statuses",
+    "concerns_num": "800",
+    "follows_num": "2534",
+    "groups_num": "215",
+    "events": {
+        "join_num": "295",
+        "interested_num": "234"
+    },
+    "doulist_num": "95",
+    "portfolio_num": "10",
+    "photo": {
+        "create_num": "38",
+        "concern_num": "1"
+    },
+    "book": {
+        "reading_num": "16",
+        "wanted_num": "28",
+        "readed_num": "17"
+    },
+    "movie": {
+        "watching_num": "16",
+        "wanted_num": "67",
+        "watched_num": "221"
+    },
+    "music": {
+        "watching_num": "493",
+        "wanted_num": "238",
+        "watched_num": "1096"
+    },
+    "review_num": "35"
+}

@@ -1,0 +1,39 @@
+{
+    "id": "74474717",
+    "face_iamge": "https://img3.doubanio.com/icon/ul74474717-2.jpg",
+    "city": null,
+    "registration_date": "2013-06-26",
+    "introduction": "吉他手/爵士钢琴手/作曲人. 06年赴美在美国西俄勒冈大学 （Western Oregon University）攻读音乐，主攻乐器演奏, 硕士期间研修作曲／编曲。在美期间学习各种演奏风格: 摇滚, 民谣, 流行，布鲁斯，爵士和拉丁（bossa, samba, Afro-Cuban 等）曾与Tom Bergeron（萨克斯风手）, Keller Coker (长号手), Louis Pain (管风琴手), Gordon Lee (钢琴手) Cuong Vu 同台演出.在Keller Coker 指挥的Western Oregon University 爵士大乐队担任2年又3个月的吉他手和1年的钢琴手，期间跟随大乐队参加Oregon Silverton jazz and wine爵士音乐节，Salem Mardi Gras 爵士音乐节，Idaho Lionel Hampton 爵士音乐节.曾师从俄勒冈爵士吉他大师 Christopher Woitach 4年，并曾求师萨克斯大师Tom Bergeron, 爵士钢琴手Gordon Lee，古典钢琴家Diane Baxter博士以及电颤琴手、作曲家Adam Bates，和爵士作曲家／指挥家Keller Coker, 期间总结出了不同乐器技巧应用到吉他和钢琴上的方法。2008 年随James Ike Nail 教授学习古典器乐指挥.2009年至今跟随Keller Coker教授学习爵士作/编曲， 并为西半球大乐队编排工作，所编作品多次在爵士音乐节上演.2009-2010年跟随Kevin Walczyk教授学习电影作曲和现代作曲法, 期间在好莱坞电影音乐编曲大师Dave Metzger 的课上学习。2013-2014年在Tom Bergeron教授的 “巴西管弦乐团” (Orquestral Brasil) 做7弦吉他演奏和音乐编排工作； 同时在Keller Coker教授指挥下的西半球乐团(Wester n Hemisphere Orchestra) 作钢琴演奏和音乐编排工作。",
+    "nickname": "江宽",
+    "sign": "大音希声，大象无形",
+    "broadcast_url": "https://www.douban.com/people/kwanjiang/statuses",
+    "concerns_num": "1",
+    "follows_num": "0",
+    "groups_num": null,
+    "events": {
+        "join_num": null,
+        "interested_num": null
+    },
+    "doulist_num": "3",
+    "portfolio_num": null,
+    "photo": {
+        "create_num": "2",
+        "concern_num": "0"
+    },
+    "book": {
+        "reading_num": null,
+        "wanted_num": null,
+        "readed_num": null
+    },
+    "movie": {
+        "watching_num": null,
+        "wanted_num": null,
+        "watched_num": null
+    },
+    "music": {
+        "watching_num": null,
+        "wanted_num": null,
+        "watched_num": null
+    },
+    "review_num": null
+}

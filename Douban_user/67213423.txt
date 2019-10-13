@@ -1,0 +1,39 @@
+{
+    "id": "67213423",
+    "face_iamge": "https://img3.doubanio.com/icon/ul67213423-3.jpg",
+    "city": "北京",
+    "registration_date": "2012-12-15",
+    "introduction": "我是一个兴趣广泛，爱聊天，爱交朋友的人，希望能在豆瓣上认识各种朋友。",
+    "nickname": "天地宽人生短",
+    "sign": null,
+    "broadcast_url": "https://www.douban.com/people/67213423/statuses",
+    "concerns_num": "15",
+    "follows_num": "7",
+    "groups_num": "152",
+    "events": {
+        "join_num": "1",
+        "interested_num": "12"
+    },
+    "doulist_num": "3",
+    "portfolio_num": null,
+    "photo": {
+        "create_num": null,
+        "concern_num": null
+    },
+    "book": {
+        "reading_num": null,
+        "wanted_num": null,
+        "readed_num": null
+    },
+    "movie": {
+        "reading_num": null,
+        "wanted_num": "1",
+        "readed_num": "1"
+    },
+    "music": {
+        "watching_num": null,
+        "wanted_num": null,
+        "watched_num": null
+    },
+    "review_num": null
+}

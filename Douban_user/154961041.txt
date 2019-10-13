@@ -1,0 +1,39 @@
+{
+    "id": "154961041",
+    "face_iamge": "https://img3.doubanio.com/icon/ul154961041-5.jpg",
+    "city": "江西九江",
+    "registration_date": "2016-12-12",
+    "introduction": "性别男，爱好女。",
+    "nickname": "织锦缎",
+    "sign": null,
+    "broadcast_url": "https://www.douban.com/people/154961041/statuses",
+    "concerns_num": "1",
+    "follows_num": "0",
+    "groups_num": null,
+    "events": {
+        "join_num": null,
+        "interested_num": null
+    },
+    "doulist_num": null,
+    "portfolio_num": null,
+    "photo": {
+        "create_num": "1",
+        "concern_num": "0"
+    },
+    "book": {
+        "reading_num": null,
+        "wanted_num": "1",
+        "readed_num": "1"
+    },
+    "movie": {
+        "watching_num": null,
+        "wanted_num": null,
+        "watched_num": null
+    },
+    "music": {
+        "watching_num": null,
+        "wanted_num": null,
+        "watched_num": null
+    },
+    "review_num": null
+}

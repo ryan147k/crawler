@@ -1,0 +1,39 @@
+{
+    "id": "124817888",
+    "face_iamge": "https://img1.doubanio.com/icon/user_normal.jpg",
+    "city": "广东广州",
+    "registration_date": "2015-04-07",
+    "introduction": "",
+    "nickname": "卢声",
+    "sign": null,
+    "broadcast_url": "https://www.douban.com/people/124817888/statuses",
+    "concerns_num": "2",
+    "follows_num": "0",
+    "groups_num": "1",
+    "events": {
+        "join_num": null,
+        "interested_num": null
+    },
+    "doulist_num": "2",
+    "portfolio_num": null,
+    "photo": {
+        "create_num": "1",
+        "concern_num": "0"
+    },
+    "book": {
+        "reading_num": null,
+        "wanted_num": null,
+        "readed_num": null
+    },
+    "movie": {
+        "reading_num": null,
+        "wanted_num": "1",
+        "readed_num": "10"
+    },
+    "music": {
+        "watching_num": null,
+        "wanted_num": null,
+        "watched_num": null
+    },
+    "review_num": null
+}

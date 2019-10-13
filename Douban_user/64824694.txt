@@ -1,0 +1,39 @@
+{
+    "id": "64824694",
+    "face_iamge": "https://img3.doubanio.com/icon/ul64824694-5.jpg",
+    "city": "海南海口",
+    "registration_date": "2012-09-21",
+    "introduction": "【曲作者简介】符禹迅。百度音乐人。1982年出生于海南。对音乐的热爱，执著的坚持着自己的音乐理想。15岁便开始研习古典吉他演奏形成了扎实的音乐功底。曾组建“六月天”“黑客”等乐队。活跃于全国各大型演义场所。05年重组--“樂”乐团风格以R&B和FUNK为主。其间创作多首作品获得业内人士的好评。08年担任蒙牛酸酸乳 成就音乐梦想福建省南平赛区总决赛评委。09年开始学习JAZZ音乐，2010年参加“最美海口”旅游歌曲比赛获得 优秀作品奖。2010年曾为电影《蒲公英的微笑》创作插曲。 2012年参加海南省力加啤酒“乐活海南省”图，文，曲征集活动中荣获原创歌曲三等奖。2013年快乐男声海南10强盛典选手全国200强。2013年为大型电视综艺节目真人秀《梦想在说话》制作主题歌。2014年出彩中国人海南总决赛2014年微电影<<微笑台州>>制作主题歌。",
+    "nickname": "符禹迅",
+    "sign": null,
+    "broadcast_url": "https://www.douban.com/people/fuyuxun/statuses",
+    "concerns_num": null,
+    "follows_num": "0",
+    "groups_num": null,
+    "events": {
+        "join_num": null,
+        "interested_num": null
+    },
+    "doulist_num": "1",
+    "portfolio_num": null,
+    "photo": {
+        "create_num": "1",
+        "concern_num": "0"
+    },
+    "book": {
+        "reading_num": null,
+        "wanted_num": null,
+        "readed_num": null
+    },
+    "movie": {
+        "watching_num": null,
+        "wanted_num": null,
+        "watched_num": null
+    },
+    "music": {
+        "watching_num": null,
+        "wanted_num": null,
+        "watched_num": null
+    },
+    "review_num": null
+}

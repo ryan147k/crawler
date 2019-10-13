@@ -1,0 +1,40 @@
+{
+    "id": "23446096",
+    "face_iamge": "https://img1.doubanio.com/icon/ul23446096-19.jpg",
+    "city": "北京",
+    "registration_date": "2009-11-09",
+    "introduction": "个人简介：反鸡汤协会会长、电台主播阿紫。静若大张伟，动如薛之谦，专治各种不服、矫情、玻璃心、公主病、玛丽苏癌。新浪微博：http://weibo.com/319717333微信订阅号：azifm2014豆瓣小站：http://site.douban.com/cctvjz/新浪博客：http://blog.sina.com.cn/cctvjz",
+    "nickname": "阿紫",
+    "sign": "春风大雅能容物，秋水文章不染尘",
+    "broadcast_url": "https://www.douban.com/people/cctvjz/statuses",
+    "concerns_num": "28",
+    "follows_num": "83",
+    "groups_num": "3",
+    "events": {
+        "join_num": null,
+        "interested_num": null
+    },
+    "doulist_num": "3",
+    "portfolio_num": null,
+    "photo": {
+        "create_num": null,
+        "concern_num": null
+    },
+    "book": {
+        "reading_num": "1",
+        "wanted_num": "3",
+        "readed_num": "1"
+    },
+    "movie": {
+        "watching_num": "8",
+        "wanted_num": "12",
+        "watched_num": "50"
+    },
+    "music": {
+        "reading_num": null,
+        "watching_num": null,
+        "wanted_num": null,
+        "watched_num": null
+    },
+    "review_num": "12"
+}

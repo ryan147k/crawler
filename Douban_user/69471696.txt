@@ -1,0 +1,40 @@
+{
+    "id": "69471696",
+    "face_iamge": "https://img1.doubanio.com/icon/ul69471696-17.jpg",
+    "city": "江西赣州",
+    "registration_date": "2013-02-24",
+    "introduction": "一蓑烟雨任平生",
+    "nickname": "如晴天，似雨天",
+    "sign": null,
+    "broadcast_url": "https://www.douban.com/people/fuhuan_/statuses",
+    "concerns_num": "15",
+    "follows_num": "39",
+    "groups_num": "50",
+    "events": {
+        "join_num": "2",
+        "interested_num": "1"
+    },
+    "doulist_num": "10",
+    "portfolio_num": null,
+    "photo": {
+        "create_num": "1",
+        "concern_num": "0"
+    },
+    "book": {
+        "reading_num": "4",
+        "wanted_num": "20",
+        "readed_num": "102"
+    },
+    "movie": {
+        "watching_num": "5",
+        "wanted_num": "94",
+        "watched_num": "1111"
+    },
+    "music": {
+        "reading_num": null,
+        "wanted_num": null,
+        "watching_num": null,
+        "watched_num": null
+    },
+    "review_num": "1"
+}

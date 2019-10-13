@@ -1,0 +1,39 @@
+{
+    "id": "69527794",
+    "face_iamge": "https://img3.doubanio.com/icon/ul69527794-3.jpg",
+    "city": "上海",
+    "registration_date": "2013-02-26",
+    "introduction": "",
+    "nickname": "花九卿",
+    "sign": null,
+    "broadcast_url": "https://www.douban.com/people/69527794/statuses",
+    "concerns_num": "2",
+    "follows_num": "2",
+    "groups_num": "46",
+    "events": {
+        "join_num": "14",
+        "interested_num": "1650"
+    },
+    "doulist_num": "2",
+    "portfolio_num": null,
+    "photo": {
+        "create_num": null,
+        "concern_num": null
+    },
+    "book": {
+        "reading_num": "13",
+        "wanted_num": "119",
+        "readed_num": "42"
+    },
+    "movie": {
+        "watching_num": "3",
+        "wanted_num": "158",
+        "watched_num": "674"
+    },
+    "music": {
+        "watching_num": null,
+        "wanted_num": null,
+        "watched_num": null
+    },
+    "review_num": null
+}

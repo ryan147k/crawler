@@ -1,0 +1,40 @@
+{
+    "id": "50740345",
+    "face_iamge": "https://img3.doubanio.com/icon/ul50740345-3.jpg",
+    "city": "江西南昌",
+    "registration_date": "2011-04-09",
+    "introduction": "豆瓣挺好的",
+    "nickname": "墨海君",
+    "sign": null,
+    "broadcast_url": "https://www.douban.com/people/50740345/statuses",
+    "concerns_num": "47",
+    "follows_num": "1",
+    "groups_num": "24",
+    "events": {
+        "join_num": "1",
+        "interested_num": "1"
+    },
+    "doulist_num": "1",
+    "portfolio_num": null,
+    "photo": {
+        "create_num": null,
+        "concern_num": null
+    },
+    "book": {
+        "reading_num": "1",
+        "wanted_num": "7",
+        "readed_num": "1"
+    },
+    "movie": {
+        "reading_num": null,
+        "wanted_num": "2",
+        "readed_num": "15"
+    },
+    "music": {
+        "reading_num": null,
+        "wanted_num": null,
+        "watching_num": null,
+        "watched_num": null
+    },
+    "review_num": null
+}

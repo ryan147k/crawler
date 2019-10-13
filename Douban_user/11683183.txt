@@ -1,0 +1,39 @@
+{
+    "id": "11683183",
+    "face_iamge": "https://img3.doubanio.com/icon/ul11683183-31.jpg",
+    "city": "广东广州",
+    "registration_date": "2009-09-15",
+    "introduction": "我们來自廣州的一支金屬核樂隊，于2009年在廣州組建，风格以Metalcore為主，并融入其他元素。這麼多年間，我們堅持獨立的信念，用音樂作為一種表達方式去激勵人們，并呼喚那些頻臨迷失的人去重拾自我，我們的作品內容不含憤世嫉俗的譏諷，用愛與靈魂去創作每一個作品。     請記住我們Official pagesDouBan:http://site.douban.com/gwaizitWeiBo:http://weibo.com/201283445Xiami:http://i.xiami.com/gwaizitKanjian:http://www.kanjian.com/gwaizit请关注我们的微信公众号：Gwaizit ",
+    "nickname": "鬼節GwaiZit",
+    "sign": "來自廣州一支金屬核樂隊",
+    "broadcast_url": "https://www.douban.com/people/ghostday/statuses",
+    "concerns_num": "209",
+    "follows_num": "169",
+    "groups_num": "60",
+    "events": {
+        "join_num": "259",
+        "interested_num": "2304"
+    },
+    "doulist_num": "7",
+    "portfolio_num": null,
+    "photo": {
+        "create_num": "6",
+        "concern_num": "0"
+    },
+    "book": {
+        "reading_num": null,
+        "wanted_num": null,
+        "readed_num": null
+    },
+    "movie": {
+        "watching_num": null,
+        "wanted_num": null,
+        "watched_num": null
+    },
+    "music": {
+        "watching_num": "11",
+        "wanted_num": "8",
+        "watched_num": "18"
+    },
+    "review_num": null
+}

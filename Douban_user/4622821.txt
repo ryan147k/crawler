@@ -1,0 +1,40 @@
+{
+    "id": "4622821",
+    "face_iamge": "https://img1.doubanio.com/icon/ul4622821-77.jpg",
+    "city": "上海",
+    "registration_date": "2009-07-15",
+    "introduction": "just an artist.ArtStationhttps://www.artstation.com/impossiblechuck",
+    "nickname": "チャック",
+    "sign": "⭐️",
+    "broadcast_url": "https://www.douban.com/people/gogonj/statuses",
+    "concerns_num": "123",
+    "follows_num": "168",
+    "groups_num": null,
+    "events": {
+        "join_num": "12",
+        "interested_num": "27"
+    },
+    "doulist_num": "3",
+    "portfolio_num": null,
+    "photo": {
+        "create_num": "1",
+        "concern_num": "1"
+    },
+    "book": {
+        "reading_num": null,
+        "wanted_num": "22",
+        "readed_num": "162"
+    },
+    "movie": {
+        "reading_num": null,
+        "wanted_num": "207",
+        "readed_num": "945"
+    },
+    "music": {
+        "reading_num": null,
+        "wanted_num": null,
+        "watching_num": null,
+        "watched_num": null
+    },
+    "review_num": "3"
+}

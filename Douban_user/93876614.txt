@@ -1,0 +1,39 @@
+{
+    "id": "93876614",
+    "face_iamge": "https://img3.doubanio.com/icon/ul93876614-2.jpg",
+    "city": "河北廊坊",
+    "registration_date": "2014-07-24",
+    "introduction": "陈峙公，英文名Juice，出生于河北廊坊，集作词、作曲、编曲、混缩于一身的原创音乐人。毕业于河北医科大学，因爱好音乐，也爱好写作，17岁自学录音软件，18岁开始学吉他，19岁自学钢琴，20岁自学乐理知识、编曲等，在校期间试着创作自己的小作品，在音乐创作方面展露头脚。",
+    "nickname": "陈峙公Juice",
+    "sign": null,
+    "broadcast_url": "https://www.douban.com/people/93876614/statuses",
+    "concerns_num": null,
+    "follows_num": "0",
+    "groups_num": null,
+    "events": {
+        "join_num": null,
+        "interested_num": null
+    },
+    "doulist_num": null,
+    "portfolio_num": null,
+    "photo": {
+        "create_num": null,
+        "concern_num": null
+    },
+    "book": {
+        "reading_num": null,
+        "wanted_num": null,
+        "readed_num": null
+    },
+    "movie": {
+        "watching_num": null,
+        "wanted_num": null,
+        "watched_num": null
+    },
+    "music": {
+        "watching_num": null,
+        "wanted_num": null,
+        "watched_num": null
+    },
+    "review_num": null
+}

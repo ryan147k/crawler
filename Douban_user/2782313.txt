@@ -1,0 +1,40 @@
+{
+    "id": "2782313",
+    "face_iamge": "https://img3.doubanio.com/icon/ul2782313-6.jpg",
+    "city": "北京",
+    "registration_date": "2008-08-05",
+    "introduction": "那些人微信号：naxieren1109独立音乐人“那些人”老板年过而立，还想唱歌开过传媒公司，带过的艺人也上了春晚曾经第一首自己的歌是在某知名歌手录音前蹭了四十分钟录音棚赶录出来的开了家餐厅，本来打算靠卖面发家，可干来干去，还是把餐厅做成了“LIVE HOUSE”给客人上菜的时候磕断了手指，当不了亚洲第一吉他手了，只好专心做原创音乐。《那些人》专辑已在乐童预售：http://www.musikid.com/project/1546“那些人·民谣季”已在京东众筹中：http://z.jd.com/project_details.action?projectId=24639联系我：zhangchenxi66@126.com",
+    "nickname": "潘马达",
+    "sign": null,
+    "broadcast_url": "https://www.douban.com/people/2782313/statuses",
+    "concerns_num": "3",
+    "follows_num": "12",
+    "groups_num": "32",
+    "events": {
+        "join_num": "30",
+        "interested_num": "1"
+    },
+    "doulist_num": "1",
+    "portfolio_num": null,
+    "photo": {
+        "create_num": null,
+        "concern_num": null
+    },
+    "book": {
+        "reading_num": null,
+        "wanted_num": null,
+        "readed_num": null
+    },
+    "movie": {
+        "reading_num": null,
+        "wanted_num": null,
+        "watching_num": null,
+        "watched_num": null
+    },
+    "music": {
+        "reading_num": null,
+        "wanted_num": "2",
+        "readed_num": "1"
+    },
+    "review_num": null
+}

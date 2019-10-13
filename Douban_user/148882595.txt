@@ -1,0 +1,39 @@
+{
+    "id": "148882595",
+    "face_iamge": "https://img3.doubanio.com/icon/ul148882595-1.jpg",
+    "city": "云南昆明",
+    "registration_date": "2016-07-28",
+    "introduction": "阮孝波，1999年出生于云南省，90后歌手，作品：《不属于彼此》。中文名：阮孝波其它外文名：ruanxiaobo别名：小波冷酷性别：男出生年月：1999年8月17日国籍：中国籍贯：云南出生地：云南省昭通市鲁甸县民族：汉族身高：173体重：57职业：歌手代表作品：不属于彼此出道地区：内地音乐类型：流行星座：狮子座 ",
+    "nickname": "网络歌手阮孝波",
+    "sign": null,
+    "broadcast_url": "https://www.douban.com/people/ruanxiaob/statuses",
+    "concerns_num": "0",
+    "follows_num": "1",
+    "groups_num": null,
+    "events": {
+        "join_num": null,
+        "interested_num": null
+    },
+    "doulist_num": null,
+    "portfolio_num": null,
+    "photo": {
+        "create_num": null,
+        "concern_num": null
+    },
+    "book": {
+        "reading_num": null,
+        "wanted_num": null,
+        "readed_num": null
+    },
+    "movie": {
+        "watching_num": null,
+        "wanted_num": null,
+        "watched_num": null
+    },
+    "music": {
+        "watching_num": null,
+        "wanted_num": null,
+        "watched_num": null
+    },
+    "review_num": null
+}

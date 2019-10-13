@@ -1,0 +1,40 @@
+{
+    "id": "41879390",
+    "face_iamge": "https://img1.doubanio.com/icon/ul41879390-7.jpg",
+    "city": "贵州遵义",
+    "registration_date": "2010-06-10",
+    "introduction": "<爱&自由><Love&Freedom>",
+    "nickname": "潘稼轩",
+    "sign": null,
+    "broadcast_url": "https://www.douban.com/people/PJXBefore/statuses",
+    "concerns_num": "1",
+    "follows_num": "6",
+    "groups_num": "1",
+    "events": {
+        "join_num": null,
+        "interested_num": null
+    },
+    "doulist_num": "3",
+    "portfolio_num": null,
+    "photo": {
+        "create_num": "1",
+        "concern_num": "0"
+    },
+    "book": {
+        "reading_num": null,
+        "wanted_num": null,
+        "readed_num": null
+    },
+    "movie": {
+        "watching_num": null,
+        "wanted_num": null,
+        "watched_num": null
+    },
+    "music": {
+        "reading_num": null,
+        "wanted_num": null,
+        "watching_num": null,
+        "watched_num": null
+    },
+    "review_num": null
+}

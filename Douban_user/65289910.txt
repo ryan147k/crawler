@@ -1,0 +1,39 @@
+{
+    "id": "65289910",
+    "face_iamge": "https://img3.doubanio.com/icon/ul65289910-4.jpg",
+    "city": "江苏南京",
+    "registration_date": "2012-10-10",
+    "introduction": "生活在六朝古都，从发梦少年，到站在清醒的这头假装胡言乱语。厨子和戏子再没有碰见痞子,于是他俩决定用世人对他们的谑称组成一支乐队。他们被上帝盖章出身卑微，身体困在原地，但我相信他们除了看过白天的拍肩、握手、微笑，也看过一双神色黯淡的眼睛的模样，见过没有磨出珍珠只磨去棱角的人类眼睛里的浑浊。他们是厨子戏子，独立乐队。他们说，每一句让你记住的歌词，都是我点到你的一个穴位。演艺经历2015 首届南京森林音乐节演出乐队2016 瓜洲音乐节演出乐队2016年7月全新单曲首推 年底即将发行首张原创专辑",
+    "nickname": "厨子和戏子",
+    "sign": null,
+    "broadcast_url": "https://www.douban.com/people/65289910/statuses",
+    "concerns_num": "1",
+    "follows_num": "49",
+    "groups_num": "18",
+    "events": {
+        "join_num": null,
+        "interested_num": null
+    },
+    "doulist_num": "1",
+    "portfolio_num": null,
+    "photo": {
+        "create_num": null,
+        "concern_num": null
+    },
+    "book": {
+        "reading_num": null,
+        "wanted_num": null,
+        "readed_num": null
+    },
+    "movie": {
+        "watching_num": null,
+        "wanted_num": null,
+        "watched_num": null
+    },
+    "music": {
+        "watching_num": null,
+        "wanted_num": null,
+        "watched_num": null
+    },
+    "review_num": null
+}

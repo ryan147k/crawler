@@ -1,0 +1,39 @@
+{
+    "id": "91172441",
+    "face_iamge": "https://img3.doubanio.com/icon/ul91172441-16.jpg",
+    "city": "山西朔州",
+    "registration_date": "2014-06-17",
+    "introduction": "一把吉他，弹出童年的回忆、青年的叛逆、中年的坚持、老年的记忆；一支话筒，唱着儿时的歌谣、年轻的活力、成人的情爱、暮色的依恋。我是郑文泽，一个爱音乐，把音乐当作生命正在活着的人，在百度音乐中，希望能和大家多多交流，也希望大家多多提出宝贵意见。我的QQ：415243860",
+    "nickname": "郑文泽",
+    "sign": null,
+    "broadcast_url": "https://www.douban.com/people/zhengwenze1017/statuses",
+    "concerns_num": "1",
+    "follows_num": "0",
+    "groups_num": "1",
+    "events": {
+        "join_num": "1",
+        "interested_num": "69"
+    },
+    "doulist_num": "3",
+    "portfolio_num": null,
+    "photo": {
+        "create_num": "1",
+        "concern_num": "0"
+    },
+    "book": {
+        "reading_num": null,
+        "wanted_num": null,
+        "readed_num": null
+    },
+    "movie": {
+        "watching_num": null,
+        "wanted_num": null,
+        "watched_num": null
+    },
+    "music": {
+        "watching_num": null,
+        "wanted_num": null,
+        "watched_num": null
+    },
+    "review_num": null
+}

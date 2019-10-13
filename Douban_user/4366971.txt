@@ -1,0 +1,39 @@
+{
+    "id": "4366971",
+    "face_iamge": "https://img1.doubanio.com/icon/ul4366971-398.jpg",
+    "city": "Seattle, United States",
+    "registration_date": "2009-06-09",
+    "introduction": "快馬輕裘， 杏花滿頭， 昔我來時， 春風少年游。 我的夢想就是跟你一起去喝喝小酒，唱唱小曲，泡泡小妞，順便打打小壞蛋拯救拯救武林維護維護世界和平。無論在什麽時候，我都可以將肩膀和後背交給你。====================================”到了生命的最后时刻他回首往事，审视从前所有痛苦的时光，觉得痛苦的日子才是他生命中最好的日子，因为那些日子塑造了他。“→ Shanghai→ Seattle→ Pittsburgh→ San Francisco====================================http://www.douban.com/note/523310785/http://www.douban.com/note/539376000/http://www.douban.com/note/540246485/http://www.douban.com/note/504480454/https://www.douban.com/note/347184776/https://www.douban.com/note/253799658/转眼已经超重 重过无涯的铁路 噗https://www.douban.com/people/cmhloveukulele/status/2243308159/====================================相方 配偶 贩子====================================目标：“world traveller, or whatever”Walk quiet, dream loud.====================================Serendipity: n. 有意外发现珍宝的运气外の雨は僕の涙、静かに降り続くこんな好きな人に出会う季節二度とないThere is some good in this world, and it’s worth fighting for.我们所过的每个平凡的日常 也许就是连续发生的奇迹。孤单不寂寞，疲惫无怨言。少年的时光就是晃。用大把的时间彷徨，只用几个瞬间来成长。绝对不要成为我们看不起的那种大人。尽量发胖，愉快而回。一期一会。诗酒趁年华。要守規則 盼有一天攀上高峰或燃燒青春要精彩 不計較收穫一旦你决定好职业，你必须全心投入工作之中，你必须爱自己的工作，千万不要有怨言，你必须穷尽一生磨练技能，这就是成功的秘诀，也是让人敬重的关键。诗篇23:4",
+    "nickname": "爱罗武勇",
+    "sign": "诗酒趁年华。",
+    "broadcast_url": "https://www.douban.com/people/cmhloveukulele/statuses",
+    "concerns_num": "229",
+    "follows_num": "455",
+    "groups_num": "252",
+    "events": {
+        "join_num": "25",
+        "interested_num": "64"
+    },
+    "doulist_num": "62",
+    "portfolio_num": null,
+    "photo": {
+        "create_num": "30",
+        "concern_num": "0"
+    },
+    "book": {
+        "reading_num": "23",
+        "wanted_num": "339",
+        "readed_num": "461"
+    },
+    "movie": {
+        "watching_num": "34",
+        "wanted_num": "1192",
+        "watched_num": "1861"
+    },
+    "music": {
+        "watching_num": "36",
+        "wanted_num": "860",
+        "watched_num": "925"
+    },
+    "review_num": "7"
+}

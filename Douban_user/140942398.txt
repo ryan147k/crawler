@@ -1,0 +1,39 @@
+{
+    "id": "140942398",
+    "face_iamge": "https://img3.doubanio.com/icon/ul140942398-1.jpg",
+    "city": "重庆",
+    "registration_date": "2016-01-22",
+    "introduction": "",
+    "nickname": "梁京",
+    "sign": null,
+    "broadcast_url": "https://www.douban.com/people/140942398/statuses",
+    "concerns_num": "3",
+    "follows_num": "2",
+    "groups_num": "3",
+    "events": {
+        "join_num": null,
+        "interested_num": null
+    },
+    "doulist_num": "1",
+    "portfolio_num": null,
+    "photo": {
+        "create_num": "1",
+        "concern_num": "0"
+    },
+    "book": {
+        "reading_num": "3",
+        "wanted_num": "18",
+        "readed_num": "14"
+    },
+    "movie": {
+        "watching_num": "1",
+        "wanted_num": "178",
+        "watched_num": "460"
+    },
+    "music": {
+        "reading_num": null,
+        "wanted_num": "1",
+        "readed_num": "2"
+    },
+    "review_num": "3"
+}

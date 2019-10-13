@@ -1,0 +1,39 @@
+{
+    "id": "76186669",
+    "face_iamge": "https://img3.doubanio.com/icon/ul76186669-5.jpg",
+    "city": "北京",
+    "registration_date": "2013-08-04",
+    "introduction": "平常的日子、轻松的聊着、更愿意拿着大绿棒子对瓶吹，言谈中调侃最多的是琚哥家的大胖小子，当手中的吉他弹起，口中哼唱起曾经年少时扒过的每一首经典时，大家的眼神交汇了，我们马上已人到中年，曾经的豪情与执拗早已化为细沙，剩下的只有锅碗瓢盆的叮当作响和那每月准时的银行流水；就这样步入中年吗？那我们做个决定“玩儿个乐队”，可这次我们是认真的。就这样这五个来自不同行业的老哥们儿，在十五年后的北京市、石景山区、八角南路2号院的烧烤摊儿，伴着啤酒与烤串的交响中成立了。",
+    "nickname": "八角南路乐队",
+    "sign": "微笑着前行",
+    "broadcast_url": "https://www.douban.com/people/76186669/statuses",
+    "concerns_num": "1",
+    "follows_num": "2",
+    "groups_num": "4",
+    "events": {
+        "join_num": null,
+        "interested_num": null
+    },
+    "doulist_num": "2",
+    "portfolio_num": null,
+    "photo": {
+        "create_num": "4",
+        "concern_num": "0"
+    },
+    "book": {
+        "reading_num": null,
+        "wanted_num": null,
+        "readed_num": null
+    },
+    "movie": {
+        "watching_num": null,
+        "wanted_num": null,
+        "watched_num": null
+    },
+    "music": {
+        "watching_num": null,
+        "wanted_num": null,
+        "watched_num": null
+    },
+    "review_num": null
+}

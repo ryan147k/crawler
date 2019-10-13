@@ -1,0 +1,39 @@
+{
+    "id": "63895553",
+    "face_iamge": "https://img3.doubanio.com/icon/ul63895553-2.jpg",
+    "city": "江西上饶",
+    "registration_date": "2012-08-15",
+    "introduction": "吴杨雨，华语流行乐坛优秀网络歌手，近年来网络人气歌手。以独特沧桑的嗓音、伤感为主被业内外人士誉为“伤感王子”。 ",
+    "nickname": "吴杨雨",
+    "sign": null,
+    "broadcast_url": "https://www.douban.com/people/wuyangyu/statuses",
+    "concerns_num": null,
+    "follows_num": "0",
+    "groups_num": null,
+    "events": {
+        "join_num": null,
+        "interested_num": null
+    },
+    "doulist_num": "2",
+    "portfolio_num": null,
+    "photo": {
+        "create_num": "1",
+        "concern_num": "0"
+    },
+    "book": {
+        "reading_num": null,
+        "wanted_num": null,
+        "readed_num": null
+    },
+    "movie": {
+        "watching_num": null,
+        "wanted_num": null,
+        "watched_num": null
+    },
+    "music": {
+        "watching_num": null,
+        "wanted_num": null,
+        "watched_num": null
+    },
+    "review_num": null
+}

@@ -1,0 +1,39 @@
+{
+    "id": "77489556",
+    "face_iamge": "https://img3.doubanio.com/icon/ul77489556-4.jpg",
+    "city": "上海",
+    "registration_date": "2013-09-04",
+    "introduction": "Real Rascal，出生于上海的95年嘻哈才子，从小在学校就有节奏神童的美誉。Rascal三岁开始学习钢琴，五岁开始学习长笛，有着良好的音乐基础，十七岁在英国接触了嘻哈文化后开始了自己的嘻哈之路，虽然这与玩古典音乐的家庭背景相悖，但是年轻气盛的他仍然坚持着自我。Rascal是上海不可多得的玩英文trap和英文chop的rapper，同时他还擅长human beatbox以及penbeat等许多嘻哈元素，在大学时代凭着个人魅力一手创办了嘻哈社团来推广嘻哈文化。身为音乐世家的他却走上了一条充满匪帮气息的道路，用属于自己的音乐风格和独特的声线让许多人为之震撼。",
+    "nickname": "Real Rascal",
+    "sign": null,
+    "broadcast_url": "https://www.douban.com/people/77489556/statuses",
+    "concerns_num": null,
+    "follows_num": "0",
+    "groups_num": null,
+    "events": {
+        "join_num": null,
+        "interested_num": null
+    },
+    "doulist_num": null,
+    "portfolio_num": null,
+    "photo": {
+        "create_num": "1",
+        "concern_num": "0"
+    },
+    "book": {
+        "reading_num": null,
+        "wanted_num": null,
+        "readed_num": null
+    },
+    "movie": {
+        "watching_num": null,
+        "wanted_num": null,
+        "watched_num": null
+    },
+    "music": {
+        "watching_num": null,
+        "wanted_num": null,
+        "watched_num": null
+    },
+    "review_num": null
+}

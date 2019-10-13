@@ -1,0 +1,40 @@
+{
+    "id": "4427503",
+    "face_iamge": "https://img3.doubanio.com/icon/ul4427503-23.jpg",
+    "city": "北京",
+    "registration_date": "2009-06-18",
+    "introduction": "blog地址：site.douban.com/multiego/MULTI-EGO【多重自我】             主唱：杭昱             吉他 : 于晨             吉他 : 刘哲             鼓 : 缪伟  豆瓣音乐人http://site.douban.com/multiego/联系方式: 于晨 13501099597 ",
+    "nickname": "Multi-Ego",
+    "sign": null,
+    "broadcast_url": "https://www.douban.com/people/multi-ego/statuses",
+    "concerns_num": "19",
+    "follows_num": "254",
+    "groups_num": "82",
+    "events": {
+        "join_num": "82",
+        "interested_num": "143"
+    },
+    "doulist_num": "3",
+    "portfolio_num": null,
+    "photo": {
+        "create_num": "1",
+        "concern_num": "0"
+    },
+    "book": {
+        "reading_num": null,
+        "wanted_num": null,
+        "readed_num": null
+    },
+    "movie": {
+        "reading_num": null,
+        "wanted_num": null,
+        "watching_num": null,
+        "watched_num": null
+    },
+    "music": {
+        "watching_num": "2",
+        "wanted_num": "2",
+        "watched_num": "8"
+    },
+    "review_num": null
+}

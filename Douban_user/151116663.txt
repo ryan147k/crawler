@@ -1,0 +1,39 @@
+{
+    "id": "151116663",
+    "face_iamge": "https://img3.doubanio.com/icon/ul151116663-3.jpg",
+    "city": "浙江金华",
+    "registration_date": "2016-09-14",
+    "introduction": "在经历了酸甜苦辣的两年拍戏生活，鞠斌写下了《配角》这首歌。这首歌的灵感都来自于鞠斌每天的生活，他的悲伤、喜悦，他的茫然、乐观，他的信念、坚持。何时何地做何事，只要灵感突发，他便立刻记录下来。制作这首歌的过程并不简单顺利，从一无所有到录制发行期间，历经数月的坚持和努力，无数次反复的修改才完成",
+    "nickname": "鞠斌",
+    "sign": null,
+    "broadcast_url": "https://www.douban.com/people/151116663/statuses",
+    "concerns_num": null,
+    "follows_num": "0",
+    "groups_num": null,
+    "events": {
+        "join_num": null,
+        "interested_num": null
+    },
+    "doulist_num": null,
+    "portfolio_num": null,
+    "photo": {
+        "create_num": "1",
+        "concern_num": "0"
+    },
+    "book": {
+        "reading_num": null,
+        "wanted_num": null,
+        "readed_num": null
+    },
+    "movie": {
+        "watching_num": null,
+        "wanted_num": null,
+        "watched_num": null
+    },
+    "music": {
+        "watching_num": null,
+        "wanted_num": null,
+        "watched_num": null
+    },
+    "review_num": null
+}

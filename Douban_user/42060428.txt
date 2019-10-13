@@ -1,0 +1,39 @@
+{
+    "id": "42060428",
+    "face_iamge": "https://img3.doubanio.com/icon/ul42060428-30.jpg",
+    "city": "陕西西安",
+    "registration_date": "2010-06-14",
+    "introduction": " 我最大的缺点就是记性太好，该忘的忘不掉。",
+    "nickname": "nimabi",
+    "sign": "改完这名儿就后悔了",
+    "broadcast_url": "https://www.douban.com/people/42060428/statuses",
+    "concerns_num": "32",
+    "follows_num": "6",
+    "groups_num": "17",
+    "events": {
+        "join_num": "16",
+        "interested_num": "4"
+    },
+    "doulist_num": "2",
+    "portfolio_num": null,
+    "photo": {
+        "create_num": "1",
+        "concern_num": "0"
+    },
+    "book": {
+        "reading_num": "1",
+        "wanted_num": "10",
+        "readed_num": "5"
+    },
+    "movie": {
+        "watching_num": "1",
+        "wanted_num": "1063",
+        "watched_num": "1191"
+    },
+    "music": {
+        "watching_num": "2",
+        "wanted_num": "3",
+        "watched_num": "10"
+    },
+    "review_num": "1"
+}

@@ -1,0 +1,39 @@
+{
+    "id": "152520141",
+    "face_iamge": "https://img3.doubanio.com/icon/ul152520141-5.jpg",
+    "city": "广西南宁",
+    "registration_date": "2016-10-15",
+    "introduction": "独立音乐人秦艺强（Victor Qin），自幼学习小提琴，曾进修于西安音乐学院，作品《脚步匆匆》、《正确的事》、《星孩》、《Fighters and lovers》等， 包揽词、曲、唱、编曲和制作，歌词富有诗意涵义深刻，歌曲旋律优美节奏明快",
+    "nickname": "秦艺强()",
+    "sign": null,
+    "broadcast_url": "https://www.douban.com/people/qinyiqiang/statuses",
+    "concerns_num": null,
+    "follows_num": "0",
+    "groups_num": null,
+    "events": {
+        "join_num": null,
+        "interested_num": null
+    },
+    "doulist_num": null,
+    "portfolio_num": null,
+    "photo": {
+        "create_num": null,
+        "concern_num": null
+    },
+    "book": {
+        "reading_num": null,
+        "wanted_num": null,
+        "readed_num": null
+    },
+    "movie": {
+        "watching_num": null,
+        "wanted_num": null,
+        "watched_num": null
+    },
+    "music": {
+        "watching_num": null,
+        "wanted_num": null,
+        "watched_num": null
+    },
+    "review_num": null
+}

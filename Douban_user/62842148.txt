@@ -1,0 +1,39 @@
+{
+    "id": "62842148",
+    "face_iamge": "https://img3.doubanio.com/icon/ul62842148-4.jpg",
+    "city": "湖北武汉",
+    "registration_date": "2012-07-05",
+    "introduction": "读书个人事，得失寸心知",
+    "nickname": "马球球的小日子",
+    "sign": "特立独行的人",
+    "broadcast_url": "https://www.douban.com/people/62842148/statuses",
+    "concerns_num": "2",
+    "follows_num": "0",
+    "groups_num": "8",
+    "events": {
+        "join_num": null,
+        "interested_num": null
+    },
+    "doulist_num": "4",
+    "portfolio_num": null,
+    "photo": {
+        "create_num": "1",
+        "concern_num": "0"
+    },
+    "book": {
+        "reading_num": "8",
+        "wanted_num": "30",
+        "readed_num": "37"
+    },
+    "movie": {
+        "reading_num": null,
+        "wanted_num": "14",
+        "readed_num": "257"
+    },
+    "music": {
+        "watching_num": null,
+        "wanted_num": null,
+        "watched_num": null
+    },
+    "review_num": null
+}

@@ -1,0 +1,40 @@
+{
+    "id": "53191797",
+    "face_iamge": "https://img3.doubanio.com/icon/ul53191797-40.jpg",
+    "city": "江西上饶",
+    "registration_date": "2011-07-20",
+    "introduction": "有缘再会 ",
+    "nickname": "fade away",
+    "sign": "人生是一场错过 愿你别蹉跎",
+    "broadcast_url": "https://www.douban.com/people/zichujun/statuses",
+    "concerns_num": "2",
+    "follows_num": "0",
+    "groups_num": "97",
+    "events": {
+        "join_num": null,
+        "interested_num": null
+    },
+    "doulist_num": "8",
+    "portfolio_num": null,
+    "photo": {
+        "create_num": null,
+        "concern_num": null
+    },
+    "book": {
+        "reading_num": "2",
+        "wanted_num": "16",
+        "readed_num": "83"
+    },
+    "movie": {
+        "watching_num": "9",
+        "wanted_num": "92",
+        "watched_num": "522"
+    },
+    "music": {
+        "reading_num": null,
+        "wanted_num": null,
+        "watching_num": null,
+        "watched_num": null
+    },
+    "review_num": null
+}

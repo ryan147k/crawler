@@ -1,0 +1,39 @@
+{
+    "id": "68835916",
+    "face_iamge": "https://img3.doubanio.com/icon/ul68835916-5.jpg",
+    "city": "江苏镇江",
+    "registration_date": "2013-02-05",
+    "introduction": "我爱蛋炒饭，番茄炒鸡蛋，糖醋排骨，玉米排骨汤，青椒炒肉丝...",
+    "nickname": "小华同学",
+    "sign": "每次考试都是100分",
+    "broadcast_url": "https://www.douban.com/people/68835916/statuses",
+    "concerns_num": "14",
+    "follows_num": "9",
+    "groups_num": "12",
+    "events": {
+        "join_num": null,
+        "interested_num": null
+    },
+    "doulist_num": "6",
+    "portfolio_num": null,
+    "photo": {
+        "create_num": "15",
+        "concern_num": "0"
+    },
+    "book": {
+        "reading_num": "1",
+        "wanted_num": "3",
+        "readed_num": "77"
+    },
+    "movie": {
+        "watching_num": "1",
+        "wanted_num": "14",
+        "watched_num": "536"
+    },
+    "music": {
+        "reading_num": null,
+        "wanted_num": "1",
+        "readed_num": "6"
+    },
+    "review_num": null
+}

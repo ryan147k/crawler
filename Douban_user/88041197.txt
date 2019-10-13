@@ -1,0 +1,39 @@
+{
+    "id": "88041197",
+    "face_iamge": "https://img3.doubanio.com/icon/ul88041197-1.jpg",
+    "city": "浙江杭州",
+    "registration_date": "2014-04-28",
+    "introduction": "油腻青年，半文盲。",
+    "nickname": "墨鱼95",
+    "sign": "读书太少，想法太多，囿于表达。",
+    "broadcast_url": "https://www.douban.com/people/88041197/statuses",
+    "concerns_num": "21",
+    "follows_num": "1",
+    "groups_num": "8",
+    "events": {
+        "join_num": null,
+        "interested_num": null
+    },
+    "doulist_num": "7",
+    "portfolio_num": null,
+    "photo": {
+        "create_num": null,
+        "concern_num": null
+    },
+    "book": {
+        "reading_num": "11",
+        "wanted_num": "26",
+        "readed_num": "15"
+    },
+    "movie": {
+        "watching_num": "11",
+        "wanted_num": "231",
+        "watched_num": "413"
+    },
+    "music": {
+        "watching_num": null,
+        "wanted_num": null,
+        "watched_num": null
+    },
+    "review_num": "2"
+}

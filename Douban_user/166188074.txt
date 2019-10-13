@@ -1,0 +1,39 @@
+{
+    "id": "166188074",
+    "face_iamge": "https://img3.doubanio.com/icon/ul166188074-5.jpg",
+    "city": "Jersey",
+    "registration_date": "2017-08-31",
+    "introduction": "Shaylo, also known as Shay Legacy, is an American record producer and mix engineer from Paterson, New Jersey. He is best known for his breakout single “I Don’t Want To Be Sad Ever Again” released on March 16, 2016. He also founded Shaylo Records, a label which has released several of his singles including; “Because I Love You” and “Eleven.”",
+    "nickname": "Shay Legacy",
+    "sign": "夏雯·莱格西",
+    "broadcast_url": "https://www.douban.com/people/shaylegacy/statuses",
+    "concerns_num": null,
+    "follows_num": "0",
+    "groups_num": null,
+    "events": {
+        "join_num": null,
+        "interested_num": null
+    },
+    "doulist_num": null,
+    "portfolio_num": null,
+    "photo": {
+        "create_num": null,
+        "concern_num": null
+    },
+    "book": {
+        "reading_num": null,
+        "wanted_num": null,
+        "readed_num": null
+    },
+    "movie": {
+        "watching_num": null,
+        "wanted_num": null,
+        "watched_num": null
+    },
+    "music": {
+        "watching_num": null,
+        "wanted_num": null,
+        "watched_num": null
+    },
+    "review_num": null
+}

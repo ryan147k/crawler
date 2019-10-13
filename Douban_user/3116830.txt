@@ -1,0 +1,40 @@
+{
+    "id": "3116830",
+    "face_iamge": "https://img3.doubanio.com/icon/ul3116830-54.jpg",
+    "city": null,
+    "registration_date": "2008-10-26",
+    "introduction": "微博：@李崢PaulLee 联系方式：Email：punxdog@126.com-------------------------------------------------------------半月弹|FatPlay-----民谣厂牌如果你有兴趣与我们合作，请与我们联系！官方微博：@半月弹民谣厂牌豆瓣小站：site.douban.com/fatplay/电子邮件：2773104445@qq.comQQ：2773104445(请注明来意)-------------------------------------------------------------",
+    "nickname": "李崢",
+    "sign": "朋克的根，民谣的皮",
+    "broadcast_url": "https://www.douban.com/people/lanlee/statuses",
+    "concerns_num": "256",
+    "follows_num": "235",
+    "groups_num": "20",
+    "events": {
+        "join_num": "133",
+        "interested_num": "1274"
+    },
+    "doulist_num": "10",
+    "portfolio_num": null,
+    "photo": {
+        "create_num": "7",
+        "concern_num": "0"
+    },
+    "book": {
+        "reading_num": null,
+        "wanted_num": null,
+        "readed_num": null
+    },
+    "movie": {
+        "watching_num": "5",
+        "wanted_num": "24",
+        "watched_num": "411"
+    },
+    "music": {
+        "reading_num": null,
+        "watching_num": null,
+        "wanted_num": null,
+        "watched_num": null
+    },
+    "review_num": null
+}

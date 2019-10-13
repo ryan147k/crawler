@@ -1,0 +1,39 @@
+{
+    "id": "41892456",
+    "face_iamge": "https://img1.doubanio.com/icon/ul41892456-8.jpg",
+    "city": "上海",
+    "registration_date": "2010-06-10",
+    "introduction": "猫的脑袋里到底想的是什么",
+    "nickname": "竹林深处寻西施",
+    "sign": "今年我十七八岁。",
+    "broadcast_url": "https://www.douban.com/people/41892456/statuses",
+    "concerns_num": "104",
+    "follows_num": "5",
+    "groups_num": "16",
+    "events": {
+        "join_num": null,
+        "interested_num": null
+    },
+    "doulist_num": "11",
+    "portfolio_num": null,
+    "photo": {
+        "create_num": "1",
+        "concern_num": "0"
+    },
+    "book": {
+        "reading_num": "1",
+        "wanted_num": "5",
+        "readed_num": "1"
+    },
+    "movie": {
+        "watching_num": "2",
+        "wanted_num": "4",
+        "watched_num": "58"
+    },
+    "music": {
+        "watching_num": null,
+        "wanted_num": null,
+        "watched_num": null
+    },
+    "review_num": null
+}

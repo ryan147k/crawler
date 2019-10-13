@@ -1,0 +1,40 @@
+{
+    "id": "142590311",
+    "face_iamge": "https://img1.doubanio.com/icon/user_normal.jpg",
+    "city": null,
+    "registration_date": "2016-02-28",
+    "introduction": "华语女歌手《芳蓉》专辑歌曲《魅力无限》荣登中国流行音乐榜榜首。国际经济电视台签约御用歌手。爱心慈善大使。内地音乐巅峰榜歌手。亚洲最美女明星。2016-2017中国卡拉OK上榜歌手代表作:《坐在草原把歌唱》《魅力无限》《罗曼蒂克的爱情》《自由》《恋人情》《无所谓》等...",
+    "nickname": "芳蓉",
+    "sign": null,
+    "broadcast_url": "https://www.douban.com/people/142590311/statuses",
+    "concerns_num": null,
+    "follows_num": "0",
+    "groups_num": null,
+    "events": {
+        "join_num": null,
+        "interested_num": null
+    },
+    "doulist_num": null,
+    "portfolio_num": null,
+    "photo": {
+        "create_num": "1",
+        "concern_num": "0"
+    },
+    "book": {
+        "reading_num": null,
+        "wanted_num": null,
+        "readed_num": null
+    },
+    "movie": {
+        "reading_num": null,
+        "wanted_num": null,
+        "watching_num": null,
+        "watched_num": null
+    },
+    "music": {
+        "watching_num": null,
+        "wanted_num": null,
+        "watched_num": null
+    },
+    "review_num": null
+}

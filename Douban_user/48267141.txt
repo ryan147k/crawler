@@ -1,0 +1,40 @@
+{
+    "id": "48267141",
+    "face_iamge": "https://img3.doubanio.com/icon/ul48267141-2.jpg",
+    "city": "河南郑州",
+    "registration_date": "2010-12-21",
+    "introduction": "刘子芙，男，民谣歌手，现居郑州。他是独立音乐人，他是拇指姑娘乐队词曲作者兼任主唱，他是网络电台Hello Radio主播，他还是自由撰稿人。具有多重身份的子芙，曾以“拇指姑娘”为代号，先后发行了两套共六张主题唱片，以及两张单曲唱片和一碟现场演出DVD。带着这些音乐和自己的小伙伴们，他成为全国LIVEHOUSE巡回演出的常客，多次参演国内大型音乐节。而在由北京迁居郑州之后，他则迅速融入这个城市并为它发出自己的声音，成为这个中州重地的独立音乐符号人物。子芙的音乐作品，以感性的民谣之声，优美的旋律，深入人心，受到众多文艺青年的喜爱，代表作品有《多爱你一天》、《云的衣裳》、《亲爱的苏》、《郑州》等。子芙擅长写情歌，用童话般的颜色去描绘一个感人的故事。他的嗓音独具个性，有种让人听了“不知如何是好”的魔性。甚至，他的声音会引发歌迷激烈辩论，而真正喜欢的人会感觉中了毒。 除此音乐作品之外，网络电台主播、专栏作家等，也都是子芙所能展示的文艺标签。他的私房网络电台“Hello Radio”，已经持续更新六年，这个电台节目不仅是独立音乐和诗歌的传播平台，也是子芙剧透私生活的小乐趣。子芙的专栏文章诙谐、直接、引人阅读，他用特有的视角和尺度去描写身边的人和事，文字中透露出的重情义、讲恩情，也体现了一个巨蟹暖男去追求一切美好事物的本性。【联系子芙】音乐事务：董大宇18037570408工作邮箱：zifu@zifu.me微信公众号：zifuweixin新浪微博：@子芙淘宝店铺：致富百货",
+    "nickname": "子芙",
+    "sign": null,
+    "broadcast_url": "https://www.douban.com/people/liuzifu/statuses",
+    "concerns_num": "54",
+    "follows_num": "282",
+    "groups_num": "7",
+    "events": {
+        "join_num": "39",
+        "interested_num": "9"
+    },
+    "doulist_num": "4",
+    "portfolio_num": null,
+    "photo": {
+        "create_num": "1",
+        "concern_num": "0"
+    },
+    "book": {
+        "reading_num": null,
+        "wanted_num": null,
+        "readed_num": null
+    },
+    "movie": {
+        "watching_num": null,
+        "wanted_num": null,
+        "watched_num": null
+    },
+    "music": {
+        "reading_num": null,
+        "wanted_num": null,
+        "watching_num": null,
+        "watched_num": null
+    },
+    "review_num": "3"
+}

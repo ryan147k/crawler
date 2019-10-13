@@ -1,0 +1,39 @@
+{
+    "id": "56357881",
+    "face_iamge": "https://img1.doubanio.com/icon/ul56357881-7.jpg",
+    "city": "山东青岛",
+    "registration_date": "2011-11-25",
+    "introduction": "爱看书，爱晚睡，爱发呆，爱行走，爱吃",
+    "nickname": "Carlton",
+    "sign": null,
+    "broadcast_url": "https://www.douban.com/people/56357881/statuses",
+    "concerns_num": "6",
+    "follows_num": "0",
+    "groups_num": "56",
+    "events": {
+        "join_num": null,
+        "interested_num": null
+    },
+    "doulist_num": "6",
+    "portfolio_num": null,
+    "photo": {
+        "create_num": null,
+        "concern_num": null
+    },
+    "book": {
+        "reading_num": "1",
+        "wanted_num": "7",
+        "readed_num": "9"
+    },
+    "movie": {
+        "reading_num": null,
+        "wanted_num": "5",
+        "readed_num": "35"
+    },
+    "music": {
+        "watching_num": null,
+        "wanted_num": null,
+        "watched_num": null
+    },
+    "review_num": null
+}

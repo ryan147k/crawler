@@ -1,0 +1,39 @@
+{
+    "id": "42096646",
+    "face_iamge": "https://img3.doubanio.com/icon/ul42096646-2.jpg",
+    "city": "广东广州",
+    "registration_date": "2010-06-14",
+    "introduction": "凉亭一座，揽八面来风",
+    "nickname": "mask",
+    "sign": "凉亭一座，揽八面来风",
+    "broadcast_url": "https://www.douban.com/people/42096646/statuses",
+    "concerns_num": "25",
+    "follows_num": "2",
+    "groups_num": "4",
+    "events": {
+        "join_num": "3",
+        "interested_num": "5"
+    },
+    "doulist_num": "10",
+    "portfolio_num": null,
+    "photo": {
+        "create_num": "1",
+        "concern_num": "0"
+    },
+    "book": {
+        "reading_num": "1",
+        "wanted_num": "9",
+        "readed_num": "3"
+    },
+    "movie": {
+        "reading_num": null,
+        "wanted_num": "230",
+        "readed_num": "230"
+    },
+    "music": {
+        "reading_num": null,
+        "wanted_num": "1",
+        "readed_num": "2"
+    },
+    "review_num": null
+}
