@@ -1,39 +1,0 @@
-{
-    "id": "1508755",
-    "face_iamge": "https://img3.doubanio.com/icon/ul1508755-71.jpg",
-    "city": "北京",
-    "registration_date": "2007-04-14",
-    "introduction": "blog地址：http://t.sina.com.cn/1965677130  北京普通音乐工作者：教吉他 录节目 做编曲 人称“大陆阿咪” 想学吉他的同学可以来这里http://www.douban.com/group/yuanjing-jita/  旗下乐队（免费听/下）http://www.douban.com/label/mississippisforsleeping/  http://t.sina.com.cn/1965677130工作需要开通围脖 办公室：http://www.douban.com/artist/yuanjing/  校内：http://www.renren.com/profile.do?id=229473364         ",
-    "nickname": "袁景",
-    "sign": "其实我是个吸血鬼",
-    "broadcast_url": "https://www.douban.com/people/1508755/statuses",
-    "concerns_num": "1974",
-    "follows_num": "1152",
-    "groups_num": "108",
-    "events": {
-        "join_num": "322",
-        "interested_num": "452"
-    },
-    "doulist_num": "7",
-    "portfolio_num": null,
-    "photo": {
-        "create_num": "3",
-        "concern_num": "0"
-    },
-    "book": {
-        "reading_num": null,
-        "wanted_num": null,
-        "readed_num": null
-    },
-    "movie": {
-        "reading_num": null,
-        "wanted_num": "3",
-        "readed_num": "14"
-    },
-    "music": {
-        "watching_num": "1",
-        "wanted_num": "1",
-        "watched_num": "29"
-    },
-    "review_num": "10"
-}

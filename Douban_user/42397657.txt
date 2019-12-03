@@ -1,39 +1,0 @@
-{
-    "id": "42397657",
-    "face_iamge": "https://img3.doubanio.com/icon/ul42397657-4.jpg",
-    "city": "甘肃兰州",
-    "registration_date": "2010-06-20",
-    "introduction": "blog地址:t.sina.com.cn/1012543231                兰州活动主办方专业演出场所文艺青年的聚集地现场，艺术，音乐，电影，旅游，书籍，美酒在这里将都被你一一发现 店内空调开放，无线网络免费接入酒吧内代卖乐队及个人专辑 无最低消费，一切随意但是谢绝自带酒水饮料，希望大家理解并且支持。 市内直达附近公交线路：1路，9路，58路，56路，82路，127,路，109路，130路，138路，115路，等等 演出咨询联系QQ：1434758238QQ群：1群：112981064（满）       2群：18416020豆瓣主办方地址：http://www.douban.com/host/kuilivehouse/ 新浪微博：http://t.sina.com.cn/1012543231 人人网：www.renren.com/kuilivehouse 联系电话：13893116196（蒙谅）          13919840913（葵小毒）          0931-8452969（酒吧)E-MAIL：mengliang820906@gmail.com  地址：兰州市城关区南关附近庆阳路与静宁路十字西北方向贡元巷市场（原东城壕）向内15米 南关时尚百盛对面，A里蛋糕店旁           ",
-    "nickname": "葵LIVE HOUSE",
-    "sign": "认真做自己~！~！",
-    "broadcast_url": "https://www.douban.com/people/kuilivehouse/statuses",
-    "concerns_num": "1976",
-    "follows_num": "1093",
-    "groups_num": "209",
-    "events": {
-        "join_num": "773",
-        "interested_num": "2176"
-    },
-    "doulist_num": "64",
-    "portfolio_num": null,
-    "photo": {
-        "create_num": "168",
-        "concern_num": "0"
-    },
-    "book": {
-        "reading_num": null,
-        "wanted_num": null,
-        "readed_num": null
-    },
-    "movie": {
-        "reading_num": null,
-        "wanted_num": "1",
-        "readed_num": "9"
-    },
-    "music": {
-        "watching_num": null,
-        "wanted_num": null,
-        "watched_num": null
-    },
-    "review_num": null
-}

@@ -1,39 +1,0 @@
-{
-    "id": "146518217",
-    "face_iamge": "https://img3.doubanio.com/icon/ul146518217-4.jpg",
-    "city": "河北邯郸",
-    "registration_date": "2016-06-01",
-    "introduction": "Python:一切皆对象 Linux:一切皆文件直到现在 我都没有学会隐藏自己的情绪 我天性不是巧言令色之人喜欢了就热热闹闹的喜欢路人皆知的喜欢不喜欢就唯恐避之不及简单的陪伴无条件的信任看得见的在乎越长大就会越明白我们需要的不再是疯狂的爱情而是一个不会离开的人",
-    "nickname": "初见",
-    "sign": null,
-    "broadcast_url": "https://www.douban.com/people/146518217/statuses",
-    "concerns_num": "1",
-    "follows_num": "18",
-    "groups_num": null,
-    "events": {
-        "join_num": null,
-        "interested_num": null
-    },
-    "doulist_num": "6",
-    "portfolio_num": null,
-    "photo": {
-        "create_num": null,
-        "concern_num": null
-    },
-    "book": {
-        "reading_num": null,
-        "wanted_num": "5",
-        "readed_num": "1"
-    },
-    "movie": {
-        "watching_num": "1",
-        "wanted_num": "28",
-        "watched_num": "412"
-    },
-    "music": {
-        "watching_num": null,
-        "wanted_num": null,
-        "watched_num": null
-    },
-    "review_num": null
-}

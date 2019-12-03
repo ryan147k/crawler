@@ -1,39 +1,0 @@
-{
-    "id": "41149007",
-    "face_iamge": "https://img1.doubanio.com/icon/ul41149007-19.jpg",
-    "city": null,
-    "registration_date": "2010-05-25",
-    "introduction": "爱御姐爱萝莉爱jack爱二逼爱巨牙爱小狗头爱dota爱技能操作流游戏，我和你都玩不起！！",
-    "nickname": "东京热 吗？",
-    "sign": "射手女，快到碗里来！！！",
-    "broadcast_url": "https://www.douban.com/people/anangelcc/statuses",
-    "concerns_num": "290",
-    "follows_num": "21",
-    "groups_num": "65",
-    "events": {
-        "join_num": "4",
-        "interested_num": "2012"
-    },
-    "doulist_num": "6",
-    "portfolio_num": null,
-    "photo": {
-        "create_num": "3",
-        "concern_num": "0"
-    },
-    "book": {
-        "reading_num": "6",
-        "wanted_num": "22",
-        "readed_num": "20"
-    },
-    "movie": {
-        "reading_num": null,
-        "wanted_num": "22",
-        "readed_num": "37"
-    },
-    "music": {
-        "watching_num": "8",
-        "wanted_num": "3",
-        "watched_num": "3"
-    },
-    "review_num": null
-}

@@ -43,8 +43,7 @@ def testIP(ip_list):
        except:
            print("代理IP无效！")
 
-def testIP2():
-    proxy = Proxy()
+def testIP2(proxy):
     while 1:
         IP = proxy.get_proxy().content.decode('ascii').replace('b', '').replace("'", '')
         proxy.set_proxy(IP)
@@ -52,23 +51,21 @@ def testIP2():
             thisProxy = "http://" + IP
             thisIP = "".join(IP.split(":")[0:1])
             print(thisIP, end=' ')
-            res = requests.get(url="http://www.douban.com", timeout=3, proxies={"http": thisProxy})
-            if res.status_code == 200:
+            response = requests.get(url="http://www.baidu.com/s?rtt=1&tn=news&word=macbook", timeout=3, proxies={"http": thisProxy})
+
+            if response.status_code == 200 and len(response.content)>1000:
                 print('代理IP有效' + IP)
-                proxy.delete_proxy()
-                f = open('../Resources/ip/ip_list.txt', 'a')
-                f.writelines(IP + '\n')
-                f.close()
+                html = response.content
+                break
             else:
-                print("代理IP无效！")
+                print("代理IP无效!" + IP)
                 proxy.delete_proxy()
         except:
-            print("代理IP无效！")
+            print("代理IP无效！" + IP)
             proxy.delete_proxy()
 
-
-
 if __name__ == '__main__':
-    testIP2()
+    proxy = Proxy()
+    testIP2(proxy)
     #testIP(loadIP())
     pass

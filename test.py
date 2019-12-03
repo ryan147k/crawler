@@ -109,13 +109,20 @@
 #     else:
 #         file.writelines('http://www.douban.com/people/' + id + '\n')
 
-import re
-f = open('Resources/douban_links.txt', 'r')
-ip_list = f.readlines()
-f.close()
-for i in range(len(ip_list)):
-    ip_list[i] = re.search(re.compile(r'\d+'), ip_list[i]).group()
-print(ip_list)
-print(len(ip_list))
+# import re
+# f = open('Resources/douban_links.txt', 'r')
+# ip_list = f.readlines()
+# f.close()
+# for i in range(len(ip_list)):
+#     ip_list[i] = re.search(re.compile(r'\d+'), ip_list[i]).group()
+# print(ip_list)
+# print(len(ip_list))
+
+'''
+测试
+'''
+with open('Resources/test.txt', 'r') as f:
+    str = f.read()
+    pass
 
 

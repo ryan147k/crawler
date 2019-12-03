@@ -1,39 +1,0 @@
-{
-    "id": "14490890",
-    "face_iamge": "https://img3.doubanio.com/icon/ul14490890-10.jpg",
-    "city": "浙江金华",
-    "registration_date": "2009-10-03",
-    "introduction": "blog地址：blog.sina.com.cn/playbeautyperfect 我不说承诺 因为我不走开 小宇控 凯莉米洛控 时尚控 独立音乐控 舞曲控 阅读控 电影控 健美控 香水控喜欢写东西 唱歌 自学一些深奥的理论最近也在灵修总之我有无数种你意想不到的可能性 所以我喜欢一部片子 叫灵魂啊 你在何方 想要联系我的人 欢迎到各个次元去寻找因为我也不知道 我现在会在哪个次元但无论在哪个领域 我都有来过我喜欢交朋友但我坚持给自己一个独立的空间目前一个人住这就给无数可能性埋下伏笔 不爱喝酒抽烟 内向不爱说话 感性多于理性冰与火的结合体喜欢静静的看 却没有勇气说爱这是金牛座的弱点      ",
-    "nickname": "小勇敢",
-    "sign": "名为人生的冒险还在继续",
-    "broadcast_url": "https://www.douban.com/people/xy208208/statuses",
-    "concerns_num": "368",
-    "follows_num": "182",
-    "groups_num": "171",
-    "events": {
-        "join_num": "15",
-        "interested_num": "95"
-    },
-    "doulist_num": "22",
-    "portfolio_num": null,
-    "photo": {
-        "create_num": "15",
-        "concern_num": "0"
-    },
-    "book": {
-        "reading_num": "6",
-        "wanted_num": "17",
-        "readed_num": "7"
-    },
-    "movie": {
-        "watching_num": "1",
-        "wanted_num": "7",
-        "watched_num": "6"
-    },
-    "music": {
-        "watching_num": "13",
-        "wanted_num": "61",
-        "watched_num": "121"
-    },
-    "review_num": "16"
-}

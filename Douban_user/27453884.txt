@@ -1,40 +1,0 @@
-{
-    "id": "27453884",
-    "face_iamge": "https://img3.doubanio.com/icon/ul27453884-5.jpg",
-    "city": "山东青岛",
-    "registration_date": "2009-12-01",
-    "introduction": " 让那    飘啊飘啊的裙       挑惹起战争          赐予世界更丰富爱恨 我是心理咨询师，下班时间不收钱。",
-    "nickname": "Chark",
-    "sign": "周天",
-    "broadcast_url": "https://www.douban.com/people/27453884/statuses",
-    "concerns_num": "14",
-    "follows_num": "124",
-    "groups_num": "50",
-    "events": {
-        "join_num": "2",
-        "interested_num": "2"
-    },
-    "doulist_num": "3",
-    "portfolio_num": null,
-    "photo": {
-        "create_num": null,
-        "concern_num": null
-    },
-    "book": {
-        "reading_num": "3",
-        "wanted_num": "226",
-        "readed_num": "8"
-    },
-    "movie": {
-        "watching_num": "6",
-        "wanted_num": "397",
-        "watched_num": "179"
-    },
-    "music": {
-        "reading_num": null,
-        "wanted_num": null,
-        "watching_num": null,
-        "watched_num": null
-    },
-    "review_num": null
-}

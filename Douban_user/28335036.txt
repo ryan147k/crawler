@@ -1,39 +1,0 @@
-{
-    "id": "28335036",
-    "face_iamge": "https://img1.doubanio.com/icon/ul28335036-7.jpg",
-    "city": null,
-    "registration_date": "2009-12-09",
-    "introduction": "曾经特别美好的初中时代一直不能忘记阴天傍晚的哈利.波特和肯德基课堂上用小纸条热烈讨论的笑话和八卦因为不辞而别，我一直耿耿于怀一直觉得，人生中最引以为傲的一段经历就那么突兀的戛然而止了不能从这个情绪里走出来即使发现已经没有人在意当时自己的消失即使发现因为生活经历的大不相同大家已经越来越远那么多个日日夜夜，深陷在懊悔和惋惜里被这种情绪折磨了那么久别人都开始新生活了我却始终留在转学的那个夏天反复梦到稀里糊涂的入学考试和LX模糊的脸 七年过去七年后的现在，我终于走出来再不会想到他们的时候心里闷闷地难受终于能现实的活在当下珍惜关心我的人和周围的朋友们终于明白，那不过是年少时的两年光阴现在身边的，更加值得珍惜对待",
-    "nickname": "春彩彩",
-    "sign": "风往北吹。。。",
-    "broadcast_url": "https://www.douban.com/people/28335036/statuses",
-    "concerns_num": "96",
-    "follows_num": "15",
-    "groups_num": "43",
-    "events": {
-        "join_num": "5",
-        "interested_num": "375"
-    },
-    "doulist_num": "12",
-    "portfolio_num": null,
-    "photo": {
-        "create_num": "2",
-        "concern_num": "0"
-    },
-    "book": {
-        "reading_num": "2",
-        "wanted_num": "4",
-        "readed_num": "15"
-    },
-    "movie": {
-        "reading_num": null,
-        "wanted_num": "6",
-        "readed_num": "105"
-    },
-    "music": {
-        "reading_num": null,
-        "wanted_num": "29",
-        "readed_num": "20"
-    },
-    "review_num": "1"
-}

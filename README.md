@@ -1,2 +1,1 @@
-# pachong-douban
-豆瓣爬虫
+百度资讯爬虫
