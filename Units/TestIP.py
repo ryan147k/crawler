@@ -53,9 +53,9 @@ def testIP2(proxy):
             print(thisIP, end=' ')
             response = requests.get(url="http://www.baidu.com/s?rtt=1&tn=news&word=macbook", timeout=3, proxies={"http": thisProxy})
 
-            if response.status_code == 200 and len(response.content)>1000:
+            if response.status_code == 200 and len(response.content)>2000:
                 print('代理IP有效' + IP)
-                html = response.content
+                html = response.content.decode('utf-8')
                 break
             else:
                 print("代理IP无效!" + IP)
