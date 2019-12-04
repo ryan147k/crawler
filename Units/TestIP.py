@@ -1,5 +1,6 @@
 import requests
 from Units.Search import Proxy
+from Units.UserAgent import UserAgent
 
 def loadIP():
     file = '../Resources/ip/ip_proxy.txt'
@@ -44,15 +45,16 @@ def testIP(ip_list):
            print("代理IP无效！")
 
 def testIP2(proxy):
+    userAgent = UserAgent()
     while 1:
-        IP = proxy.get_proxy().content.decode('ascii').replace('b', '').replace("'", '')
+        IP = proxy.get_proxy_form_pool()
         proxy.set_proxy(IP)
         try:
             thisProxy = "http://" + IP
             thisIP = "".join(IP.split(":")[0:1])
             print(thisIP, end=' ')
-            response = requests.get(url="http://www.baidu.com/s?rtt=1&tn=news&word=macbook", timeout=3, proxies={"http": thisProxy})
-
+            response = requests.get(url="https://www.baidu.com/s?rtt=1&tn=news&word=华为 立讯精密 &pn=10", headers=userAgent.getHead(),timeout=3, proxies={"http": thisProxy})
+            # response = requests.get(url="https://www.baidu.com/s?rtt=1&tn=news&word=华为%20立讯精密&pn=10", timeout=3)
             if response.status_code == 200 and len(response.content)>2000:
                 print('代理IP有效' + IP)
                 html = response.content.decode('utf-8')

@@ -1,298 +1,71 @@
 from bs4 import BeautifulSoup
 import re
 import json
+import time
 
-def parser(id, html):
-    soup = BeautifulSoup(html, features='html.parser')
+def parserBaidu(html:str, keyword:list) -> bool:
 
-    # 右上
-    try:
-        face_iamge = soup.select('img.userface')[0].attrs['src']
-    except:
-        face_iamge = None
+    soup = BeautifulSoup(html,features='html.parser')
 
-    try:
-        city = soup.select('.user-info > a')[0].get_text()
-    except:
-        city = None
+    news_html_list = soup.select('div#content_left div.result')
+    for news_html_tag in news_html_list:
+        news_html_soup = BeautifulSoup(news_html_tag.prettify(), features='html.parser')
 
-    try:
-        registration_date = soup.select('.user-info  .pl')[0].get_text()
-        registration_date = re.search(re.compile(r'[\d]{4}[-][\d]{2}[-][\d]{2}'), registration_date).group()
-        introduction = soup.select('span#intro_display')[0].get_text()
-    except:
-        registration_date = None
-        introduction = None
+        title_tag = news_html_soup.select('.c-title > a')[0]
+        news_url = title_tag['href']
+        news_title = re.sub(re.compile(r'[\s]{2,}'), '', title_tag.get_text().strip()) # 匹配连续超过两个空白符就去掉
 
-    # 左上
-    try:
-        attrs = soup.select('div.info > h1')[0]
-        nickname = attrs.contents[0].strip()
-        try:
-            sign = attrs.contents[1].get_text()
-        except:
-            sign = None
-    except:
-        nickname = None
-        sign = None
+        author_tag = news_html_soup.select('p.c-author')[0]
+        author_text_list = re.sub(re.compile(r'[\s]+'), ' ', author_tag.get_text().strip()).split()
+        news_author = author_text_list[0]
+        news_time = author_text_list[1]
+        if re.search('前', news_time):
+            nowtime = time.time()
+            try:
+                hour = int(re.search(re.compile(r'(\d+)小时前'), news_time).group(1)[0])
+            except:
+                hour = 0
+            try:
+                minute = int(re.search(re.compile(r'(\d+)分钟前'), news_time).group(1)[0])
+            except:
+                minute = 0
+            real_time = nowtime - hour * 60 * 60 - minute * 60
+            local_time = time.localtime(real_time)
+            news_time = '{}年{}月{}日 {}:{}'.format(local_time.tm_year, local_time.tm_mon, local_time.tm_mday,
+                                                    local_time.tm_hour, local_time.tm_min)
 
-    # 右下
-    try:
-        broadcast_url = soup.select('div.stream-items a[target="_self"]')[0].attrs['href']
-    except:
-        broadcast_url = None
+        # test = news_html_soup.select('p.c-author')[0].parent
+        summary_str = re.sub(re.compile(r'<p[\s\S]*?/p>'), '', news_html_soup.select('p.c-author')[0].parent.prettify())
+        summary_str = re.sub(re.compile(r'<span[\s\S]*?/span>'), '', summary_str)
+        news_summary = BeautifulSoup(summary_str, features='html.parser').get_text()
+        news_summary = re.sub(re.compile(r'[\s]{2,}'), '', news_summary.strip())
 
-    try:
-        concerns_num = re.search(
-            re.compile(r'\d+'),
-            soup.select('div#friend a[target="_self"]')[0].get_text()
-        ).group()
-    except:
-        concerns_num = None
+        news_dict = {}
+        news_dict['keyword'] = keyword
+        news_dict['url'] = news_url
+        news_dict['title'] = news_title
+        news_dict['author'] = news_author
+        news_dict['time'] = news_time
+        news_dict['summary'] = news_summary
+        json_str = json.dumps(news_dict, ensure_ascii=False)
+        with open('C:\\hurui\\project\\pycharm\\pachong-douban\\Resources\\news.jsonl', 'a', encoding='utf-8') as f:
+            f.write(json_str + '\n')
 
-    try:
-        follows_num = re.search(
-            re.compile(r'(\d+)人关注'),
-            soup.select('p.rev-link > a')[0].get_text()
-        ).group(1)
-    except:
-        follows_num = None
-
-    try:
-        groups_num = re.search(
-            re.compile(r'[(](\d+)[)]'),
-            soup.select('div#group > h2')[0].get_text()
-        ).group(1)
-    except:
-        groups_num = None
-
-    events = {}
-    try:
-        events_tag = soup.select('div#event  a')
-        if len(events_tag) == 0:
-            raise RuntimeError('')
-        events['join_num'] = re.search(
-            re.compile(r'(\d+)'),
-            events_tag[0].get_text()
-        ).group()
-        events['interested_num'] = re.search(
-            re.compile(r'(\d+)'),
-            events_tag[1].get_text()
-        ).group()
-    except:
-        events['join_num'] = None
-        events['interested_num'] = None
-
-    try:
-        doulist_num = re.search(
-            re.compile(r'(\d+)'),
-            soup.select('div#doulist  a')[0].get_text()
-        ).group()
-    except:
-        doulist_num = None
-
-    # 左下
-    try:
-        portfolio_num = re.search(
-            re.compile(r'(\d+)'),
-            soup.select('div#portfolio  a')[0].get_text()
-        ).group()
-    except:
-        portfolio_num = None
-
-    photo = {}
-    try:
-        photo_tag = soup.select('div#photo > h2 > span.pl > a')
-        if len(photo_tag) == 0:
-            raise RuntimeError('')
-        photo['create_num'] = re.search(
-            re.compile(r'(\d+)'),
-            photo_tag[0].get_text()
-        ).group()
-        photo['concern_num'] = re.search(
-            re.compile(r'(\d+)'),
-            photo_tag[1].get_text()
-        ).group()
-    except:
-        photo['create_num'] = None
-        photo['concern_num'] = None
-
-    book = {}
-    try:
-        book_tag = soup.select('div#book > h2 > span.pl > a')
-        if len(book_tag) == 0:
-            raise RuntimeError('')
-        elif len(book_tag) == 3:
-            book['reading_num'] = re.search(
-                re.compile(r'(\d+)本在读'),
-                book_tag[0].get_text()
-            ).group(1)
-            book['wanted_num'] = re.search(
-                re.compile(r'(\d+)本想读'),
-                book_tag[1].get_text()
-            ).group(1)
-            book['readed_num'] = re.search(
-                re.compile(r'(\d+)本读过'),
-                book_tag[2].get_text()
-            ).group(1)
-        elif len(book_tag) == 2:
-            book['reading_num'] = None
-            book['wanted_num'] = re.search(
-                re.compile(r'(\d+)本想读'),
-                book_tag[0].get_text()
-            ).group(1)
-            book['readed_num'] = re.search(
-                re.compile(r'(\d+)本读过'),
-                book_tag[1].get_text()
-            ).group(1)
-        elif len(book_tag) == 1:
-            book['reading_num'] = None
-            book['wanted_num'] = None
-            book['readed_num'] = re.search(
-                re.compile(r'(\d+)本读过'),
-                book_tag[1].get_text()
-            ).group(1)
-    except:
-        book['reading_num'] = None
-        book['wanted_num'] = None
-        book['readed_num'] = None
-
-    movie = {}
-    try:
-        movie_tag = soup.select('div#movie > h2 > span.pl > a')
-        if len(movie_tag) == 0:
-            raise RuntimeError('')
-        elif len(movie_tag) == 3:
-            movie['watching_num'] = re.search(
-                re.compile(r'(\d+)部在看'),
-                movie_tag[0].get_text()
-            ).group(1)
-            movie['wanted_num'] = re.search(
-                re.compile(r'(\d+)部想看'),
-                movie_tag[1].get_text()
-            ).group(1)
-            movie['watched_num'] = re.search(
-                re.compile(r'(\d+)部看过'),
-                movie_tag[2].get_text()
-            ).group(1)
-        elif len(movie_tag) == 2:
-            movie['reading_num'] = None
-            movie['wanted_num'] = re.search(
-                re.compile(r'(\d+)部想看'),
-                movie_tag[0].get_text()
-            ).group(1)
-            movie['readed_num'] = re.search(
-                re.compile(r'(\d+)部看过'),
-                movie_tag[1].get_text()
-            ).group(1)
-        elif len(movie_tag) == 1:
-            movie['reading_num'] = None
-            movie['wanted_num'] = None
-            movie['readed_num'] = re.search(
-                re.compile(r'(\d+)部看过'),
-                movie_tag[1].get_text()
-            ).group(1)
-    except:
-        movie['watching_num'] = None
-        movie['wanted_num'] = None
-        movie['watched_num'] = None
-
-    music = {}
-    try:
-        music_tag = soup.select('div#music > h2 > span.pl > a')
-        if len(music_tag) == 0:
-            raise RuntimeError('')
-        elif len(music_tag) == 3:
-            music['watching_num'] = re.search(
-                re.compile(r'(\d+)张在听'),
-                music_tag[0].get_text()
-            ).group(1)
-            music['wanted_num'] = re.search(
-                re.compile(r'(\d+)张想听'),
-                music_tag[1].get_text()
-            ).group(1)
-            music['watched_num'] = re.search(
-                re.compile(r'(\d+)张听过'),
-                music_tag[2].get_text()
-            ).group(1)
-        elif len(music_tag) == 2:
-            music['reading_num'] = None
-            music['wanted_num'] = re.search(
-                re.compile(r'(\d+)张想听'),
-                music_tag[0].get_text()
-            ).group(1)
-            music['readed_num'] = re.search(
-                re.compile(r'(\d+)张听过'),
-                music_tag[1].get_text()
-            ).group(1)
-        elif len(music_tag) == 1:
-            music['reading_num'] = None
-            music['wanted_num'] = None
-            music['readed_num'] = re.search(
-                re.compile(r'(\d+)张听过'),
-                music_tag[1].get_text()
-            ).group(1)
-    except:
-        music['watching_num'] = None
-        music['wanted_num'] = None
-        music['watched_num'] = None
-
-    try:
-        review_num = re.search(
-            re.compile(r'\d+'),
-            soup.select('div#review > h2 > span.pl > a')[0].get_text()
-        ).group()
-    except:
-        review_num = None
-
-    base_url = 'https://www.douban.com'
-    user = {}
-    user['id'] = id
-    user['face_iamge'] = face_iamge
-    user['city'] = city
-    user['registration_date'] = registration_date
-    user['introduction'] = introduction
-    user['nickname'] = nickname
-    user['sign'] = sign
-    if broadcast_url == None:
-        user['broadcast_url'] = broadcast_url
+    # 判断是否有下一页
+    next_page = soup.select('a.n')
+    if len(next_page) == 2:
+        return True
+    elif len(next_page) == 1:
+        a = next_page[0]
+        res = re.search('下一页', next_page[0].get_text())
+        return res != None
     else:
-        user['broadcast_url'] = base_url + broadcast_url
-    user['concerns_num'] = concerns_num
-    user['follows_num'] = follows_num
-    user['groups_num'] = groups_num
-    user['events'] = events
-    user['doulist_num'] = doulist_num
-    user['portfolio_num'] = portfolio_num
-    user['photo'] = photo
-    user['book'] = book
-    user['movie'] = movie
-    user['music'] = music
-    user['review_num'] = review_num
-
-    return user
-
-def insertJson(user, html, dao):
-    json_str = json.dumps(user, ensure_ascii=False, indent=4)
-    if user['broadcast_url'] == None:
-        user['broadcast_url'] = 'null'
-    return dao.insert(user['id'], html, json_str, user['broadcast_url'])
-
-def updateJson(user, dao):
-    json_str = json.dumps(user, ensure_ascii=False, indent=4)
-    # with open('../JSON/data.json', 'w', encoding='utf-8') as json_file:
-    #     json_file.write(json_str)
-    if user['broadcast_url'] == None:
-        user['broadcast_url'] = 'null'
-    return dao.update(user['id'], json_str, user['broadcast_url'])
+        return False
 
 
 
 if __name__ == '__main__':
-    f = open('../Resources/3216848.txt', 'r', encoding='utf-8')
+    f = open('../Resources/test.txt', 'r', encoding='utf-8')
     html = f.read()
-    user = parser('123',html)
-    updateJson(user)
-    f = open('../JSON/data.json', 'r', encoding='utf-8')
-    str = f.read()
-    print(str)
+    nextpage = parserBaidu(html, ['深圳'])
+    pass
