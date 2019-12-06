@@ -6,10 +6,13 @@
       <change beforePath="$PROJECT_DIR$/.idea/pachong.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/pachong.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BaiduNews.py" beforeDir="false" afterPath="$PROJECT_DIR$/BaiduNews.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/news.jsonl" beforeDir="false" afterPath="$PROJECT_DIR$/Resources/news.jsonl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Units/Mysql.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Units/Parser.py" beforeDir="false" afterPath="$PROJECT_DIR$/Units/Parser.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Units/Search.py" beforeDir="false" afterPath="$PROJECT_DIR$/Units/Search.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Units/TestIP.py" beforeDir="false" afterPath="$PROJECT_DIR$/Units/TestIP.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Units/UserAgent.py" beforeDir="false" afterPath="$PROJECT_DIR$/Units/UserAgent.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,22 +23,34 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BaiduNews.py">
+        <entry file="file://$PROJECT_DIR$/MultiThread.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="248">
-              <caret line="20" column="30" lean-forward="true" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
+            <state relative-caret-position="115">
+              <caret line="5" column="20" lean-forward="true" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
               <folding>
-                <element signature="e#1#32#0" expanded="true" />
+                <element signature="e#0#16#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="184">
+                <caret line="8" column="55" selection-start-line="8" selection-start-column="55" selection-end-line="8" selection-end-column="55" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Units/Search.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="548">
-              <caret line="59" column="37" selection-start-line="59" selection-start-column="37" selection-end-line="59" selection-end-column="37" />
+            <state relative-caret-position="368">
+              <caret line="16" column="81" lean-forward="true" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="81" />
               <folding>
                 <element signature="e#0#37#0" expanded="true" />
               </folding>
@@ -44,24 +59,38 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Units/Parser.py">
+        <entry file="file://$PROJECT_DIR$/test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="57" column="28" selection-start-line="57" selection-start-column="28" selection-end-line="57" selection-end-column="28" />
-              <folding>
-                <element signature="e#0#29#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="446">
+              <caret line="119" selection-start-line="119" selection-end-line="119" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BaiduNews.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="414">
+              <caret line="22" selection-start-line="22" selection-end-line="22" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="FindInProjectRecents">
     <findStrings>
       <find>get</find>
       <find>news_</find>
       <find>BIDUPSID=0B51F0C45238194A1EDFBDC5AFBD68BC; PSTM=1572594501; BAIDUID=0B51F0C45238194A6AED2D00E69650FA:FG=1; BD_UPN=12314753; MCITY=-%3A; BDORZ=B490B5EBF6F3CD402E515D22BCDA1598; yjs_js_security_passport=194a979d11af6b68eb17d4a61aca8605f64f60fb_1575443711_js; delPer=0; BD_HOME=0; BD_CK_SAM=1; PSINO=7; H_PS_645EC=9eadTcLfOhHEwiiLjqka26%2BqArCJENNn3SN5xPmM03Fdi5XMTnBPE7ouwR8; COOKIE_SESSION=4904_0_9_8_4_1_0_0_9_1_255_0_3013_0_0_0_1575444473_0_1575456647%7C9%23325168_39_1574911494%7C9; BDRCVFR[C0p6oIjvx-c]=rJZwba6_rOCfAF9pywd; BDSVRTM=774; H_PS_PSSID=</find>
+      <find>Search</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -74,20 +103,24 @@
         <option value="$PROJECT_DIR$/Units/Mysql.py" />
         <option value="$PROJECT_DIR$/Units/TestIP.py" />
         <option value="$PROJECT_DIR$/Resources/test.txt" />
-        <option value="$PROJECT_DIR$/Units/UserAgent.py" />
-        <option value="$PROJECT_DIR$/BaiduNews.py" />
         <option value="$PROJECT_DIR$/Resources/keyword.txt" />
-        <option value="$PROJECT_DIR$/Resources/news.jsonl" />
         <option value="$PROJECT_DIR$/Units/Parser.py" />
+        <option value="$PROJECT_DIR$/Units/UserAgent.py" />
+        <option value="$PROJECT_DIR$/MultiThread.py" />
         <option value="$PROJECT_DIR$/Units/Search.py" />
+        <option value="$PROJECT_DIR$/BaiduNews.py" />
+        <option value="$PROJECT_DIR$/Resources/proxyserve.conf" />
+        <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/Resources/news.jsonl" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="758" />
-    <option name="y" value="2" />
-    <option name="width" value="1176" />
-    <option name="height" value="1000" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="65" />
+    <option name="y" value="30" />
+    <option name="width" value="1330" />
+    <option name="height" value="835" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -101,11 +134,6 @@
             <path>
               <item name="pachong-douban" type="b2602c69:ProjectViewProjectNode" />
               <item name="pachong-douban" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pachong-douban" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pachong-douban" type="462c0819:PsiDirectoryNode" />
-              <item name="Resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="pachong-douban" type="b2602c69:ProjectViewProjectNode" />
@@ -135,7 +163,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.BaiduNews">
+  <component name="RunManager" selected="Python.MultiThread">
     <configuration name="BaiduNews" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pachong" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -149,6 +177,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BaiduNews.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="MultiThread" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pachong" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MultiThread.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -222,9 +271,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.MultiThread" />
         <item itemvalue="Python.BaiduNews" />
-        <item itemvalue="Python.Parser" />
         <item itemvalue="Python.Search" />
+        <item itemvalue="Python.Parser" />
         <item itemvalue="Python.TestIP" />
       </list>
     </recent_temporary>
@@ -243,16 +293,16 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19968387" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1994716" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.96746206" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.69739693" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.9575071" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.9575071" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -265,18 +315,21 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
   </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.conf" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Units/Search.py</url>
-          <line>72</line>
-          <option name="timeStamp" value="34" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/Units/TestIP.py</url>
           <line>72</line>
           <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Units/Search.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="42" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -297,23 +350,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../../anaconda3/envs/hurui/Lib/re.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="181" selection-start-line="181" selection-end-line="181" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Resources/test.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="8023">
-          <caret line="2493" selection-start-line="2493" selection-end-line="2493" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://E:/anaconda3/envs/hurui/Lib/re.py" />
+    <entry file="file://$PROJECT_DIR$/Resources/test.txt" />
     <entry file="file://$PROJECT_DIR$/Units/TestIP.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
@@ -324,57 +362,82 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../../anaconda3/envs/hurui/Lib/codecs.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="97">
-          <caret line="331" selection-start-line="331" selection-end-line="331" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Units/UserAgent.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="9" column="41" lean-forward="true" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://E:/anaconda3/envs/hurui/Lib/codecs.py" />
     <entry file="file://$PROJECT_DIR$/Resources/keyword.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="16" column="7" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
+        <state relative-caret-position="345">
+          <caret line="15" column="7" lean-forward="true" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Resources/news.jsonl">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Units/Parser.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="57" column="28" selection-start-line="57" selection-start-column="28" selection-end-line="57" selection-end-column="28" />
+        <state relative-caret-position="782">
+          <caret line="61" column="26" lean-forward="true" selection-start-line="61" selection-start-column="26" selection-end-line="61" selection-end-column="26" />
           <folding>
             <element signature="e#0#29#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Units/UserAgent.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="717" selection-start-line="11" selection-start-column="717" selection-end-line="11" selection-end-column="717" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/BaiduNews.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="248">
-          <caret line="20" column="30" lean-forward="true" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
-          <folding>
-            <element signature="e#1#32#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="414">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Units/Search.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="548">
-          <caret line="59" column="37" selection-start-line="59" selection-start-column="37" selection-end-line="59" selection-end-column="37" />
+        <state relative-caret-position="368">
+          <caret line="16" column="81" lean-forward="true" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="81" />
           <folding>
             <element signature="e#0#37#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Resources/proxyserve.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="7" selection-start-column="7" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="446">
+          <caret line="119" selection-start-line="119" selection-end-line="119" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Resources/news.jsonl">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MultiThread.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="20" lean-forward="true" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#16#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="184">
+            <caret line="8" column="55" selection-start-line="8" selection-start-column="55" selection-end-line="8" selection-end-column="55" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>

@@ -118,11 +118,5 @@
 # print(ip_list)
 # print(len(ip_list))
 
-'''
-测试
-'''
-with open('Resources/test.txt', 'r') as f:
-    str = f.read()
-    pass
 
 

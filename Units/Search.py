@@ -3,11 +3,10 @@ import requests
 import time
 import random
 
-proxy_pool_address = 'http://112.124.25.99:8090'
-
 class Proxy:
-    def __init__(self):
+    def __init__(self, proxy_server_address):
         self.proxy = ''
+        self.proxy_pool_address = proxy_server_address
 
     def set_proxy(self, proxy_ip):
         self.proxy = proxy_ip
@@ -15,18 +14,18 @@ class Proxy:
     def get_proxy_form_pool(self):
         try:
             if self.proxy == '':
-                proxy = requests.get(proxy_pool_address + "/get", timeout=8)
+                proxy = requests.get(self.proxy_pool_address + "/get", timeout=8)
                 self.set_proxy(proxy.content.decode('ascii').replace('b', '').replace("'", ''))
             return self.proxy
         except Exception:
-            print('127.0.0.1 超时重连')
+            print('proxy_pool连接超时，正在重连')
             self.get_proxy_form_pool()
 
     def get_proxy_from_list(self, ip_list):
         ip_list = []
 
     def delete_proxy(self):
-        requests.get(proxy_pool_address + "/delete/?proxy={}".format(self.proxy))
+        requests.get(self.proxy_pool_address + "/delete/?proxy={}".format(self.proxy))
         self.proxy = ''
 
 

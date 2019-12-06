@@ -3,7 +3,7 @@ import re
 import json
 import time
 
-def parserBaidu(html:str, keyword:list) -> bool:
+def parserBaidu(html:str, keyword:list, queue) -> bool:
 
     soup = BeautifulSoup(html,features='html.parser')
 
@@ -48,8 +48,9 @@ def parserBaidu(html:str, keyword:list) -> bool:
         news_dict['time'] = news_time
         news_dict['summary'] = news_summary
         json_str = json.dumps(news_dict, ensure_ascii=False)
-        with open('C:\\hurui\\project\\pycharm\\pachong-douban\\Resources\\news.jsonl', 'a', encoding='utf-8') as f:
-            f.write(json_str + '\n')
+        # with open('C:\\hurui\\project\\pycharm\\pachong-douban\\Resources\\news.jsonl', 'a', encoding='utf-8') as f:
+        #     f.write(json_str + '\n')
+        queue.put(json_str)
 
     # 判断是否有下一页
     next_page = soup.select('a.n')
