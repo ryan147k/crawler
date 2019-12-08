@@ -1,12 +1,16 @@
 
 from Units import Search
 from Units.Parser import parserBaidu
+from Units.ConfHelper import Conf
 import re
 import time
 import requests
+import os
+
+current_path = os.path.dirname(__file__)
 
 def get_keyword() -> list:
-    with open('./Resources/keyword.txt', 'r', encoding='utf-8') as f:
+    with open(current_path + '/./Resources/keyword.txt', 'r', encoding='utf-8') as f:
         lines = f.read().split('\n')
         keyword_list = []
         for line in lines:
@@ -15,12 +19,10 @@ def get_keyword() -> list:
     return keyword_list
 
 class GetNews():
-    def __init__(self):
-        with open('./Resources/proxyserve.conf', 'r') as f:
-            # 去除头尾空白符
-            proxy_serve_address = f.read().replace('\n', '').strip()
+    def __init__(self, set_cookie=False):
+        proxy_serve_address = Conf.proxy_serve_address
         self.proxy = Search.Proxy(proxy_server_address=proxy_serve_address)
-        self.search = Search.Search()
+        self.search = Search.Search(set_cookie=set_cookie)
 
     def main(self, keyword, queue):
         url_base = 'https://www.baidu.com/s?rtt=1&tn=news&word={}&pn={}'

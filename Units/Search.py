@@ -2,6 +2,7 @@ from Units.UserAgent import UserAgent
 import requests
 import time
 import random
+from Units.Selenium import getCookie
 
 class Proxy:
     def __init__(self, proxy_server_address):
@@ -30,9 +31,11 @@ class Proxy:
 
 
 class Search:
-    def __init__(self):
+    def __init__(self, set_cookie=False):
         self.userAgent = UserAgent()
         self.session = requests.Session()
+        if set_cookie:
+            self.userAgent.setCookie(getCookie())
         self.headers = self.userAgent.getHead()
 
     def getHtml(self, url, proxy, proxy_flag=True):
