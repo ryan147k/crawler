@@ -9,6 +9,7 @@ class Conf:
     proxy_serve_address = conf['proxy_serve_address']
     chrome_exe_path = conf['chrome_exe_path']
     chrome_driver_path = conf['chrome_driver_path']
+    pages = conf['pages']
 
 if __name__ == '__main__':
     conf = Conf()

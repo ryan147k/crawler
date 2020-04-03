@@ -25,19 +25,20 @@ class GetNews():
         self.search = Search.Search(set_cookie=set_cookie)
 
     def main(self, keyword, queue):
-        url_base = 'https://www.baidu.com/s?rtt=1&tn=news&word={}&pn={}'
+        url_base = 'https://www.baidu.com/s?ie=utf-8&cl=2&medium=0&rtt=1&bsst=1&rsv_dl=news_b_pn&tn=news&word={}&x_bfe_rqs=03E80&tngroupname=organic_news&newVideo=12&pn={}'
         keyword_list = get_keyword()
         page_num = 1
         nextpage = True
         word = ''
         for item in keyword:
             word = word + item + '%20'
-        while nextpage == True and page_num <= 30:
+        while nextpage == True and page_num <= Conf.pages:
             url = url_base.format(word, str((page_num - 1) * 10))
             html = False
             while html == False:
                 html = self.search.getHtml(url=url, proxy=self.proxy)
             # 成功爬取
             nextpage = parserBaidu(html, keyword, queue)
+            print('nextpage', nextpage)
             page_num += 1
             print('{} {} url:"{}"'.format(page_num-1, self.proxy.proxy, url))
